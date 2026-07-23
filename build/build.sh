@@ -55,6 +55,7 @@ echo "Kindle-ready docx -> $OUT_DIR/krishna-texts-back.docx"
 pandoc "$COMBINED" \
   --from=markdown+smart \
   --to=epub3 \
+  --css="$ROOT_DIR/build/epub.css" \
   --metadata title="$BOOK_TITLE" \
   --metadata subtitle="$BOOK_SUBTITLE" \
   --metadata author="$BOOK_AUTHOR" \
