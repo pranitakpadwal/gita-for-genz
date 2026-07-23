@@ -18,7 +18,7 @@ You put the phone face-down on the desk and put your head in your hands.
 
 ---
 
-## The Chapter
+## Shloka
 
 This is where the Bhagavad Gita begins — not with a lesson, but with someone completely unable to move.
 
@@ -34,7 +34,7 @@ That's the entire first chapter. No wisdom yet. No answers. The Bhagavad Gita �
 
 ---
 
-## Why it opens here
+## Why It Lands
 
 Most retellings skip Chapter 1 fast to get to the "good part" — Krishna's teaching, which starts in Chapter 2. But the freeze *is* the setup the whole rest of the book is answering. Krishna doesn't scold Arjuna for being weak. He doesn't say "get over it." The teaching that follows exists *because* Arjuna is stuck — and stuck for a legitimate reason: the people in front of him are not enemies in any simple sense, they're family, and no easy answer covers that.
 

@@ -17,23 +17,31 @@ Same teaching. Less gyaan, more "oh, this is literally me right now."
 
 - **Format**: Kindle ebook first (reflowable, ships fast, easy to revise),
   paperback / print-on-demand second once the content is locked.
-- **Structure per chapter, labeled "Fight 1" through "Fight 18"**:
-  **Scene → Shloka → Takeaway.**
+- **Structure per chapter, labeled "Fight 1" through "Fight 18"** — locked,
+  final: **Scene → Shloka → Why It Lands → Takeaway.**
   1. *Scene* — a real, specific Gen Z moment (named character, present
      tense) that puts the reader inside the same emotional problem Arjuna
      or Krishna is dealing with in that chapter — no explanation yet, just
      the situation.
   2. *Shloka* — the actual chapter content: what happens/is taught in that
-     chapter of the Gita, referenced by verse, explained plainly. For the
-     philosophically dense chapters (2, 6, 12, 13, 15, 18 — the ones
-     carrying real argument, not just a moment), this section runs longer
-     and can move through 2–3 sub-scenes instead of one. The 3-part shape
-     stays consistent across all 18 chapters; only the length of the
-     middle section flexes to match how much the source chapter is
-     actually carrying.
-  3. *Takeaway* — one tight, quotable line (or a short paragraph, max) that
-     the reader could screenshot. Not a moral lecture — the point already
-     landed in the scene.
+     chapter of the Gita, referenced by verse, explained plainly. This is
+     information — what the text says — not yet what it means for the
+     reader. For the philosophically dense chapters (2, 6, 12, 13, 15,
+     18 — the ones carrying real argument, not just a moment), this
+     section runs longer and can move through 2–3 sub-scenes instead of
+     one.
+  3. *Why It Lands* — the bridge. Connects the textual explanation back to
+     the reader directly: this is you, right now, in that scene. Makes
+     the meta-point explicit (why the Gita handles it this way) and
+     universalizes it. This is the section that does the actual arguing —
+     Shloka informs, Why It Lands persuades.
+  4. *Takeaway* — one tight, quotable line (or a short paragraph, max)
+     that compresses Why It Lands into something screenshot-able. It's
+     meant to overlap with Why It Lands on purpose — this is the
+     retention line for skimmers, not new content.
+  The 4-part shape stays consistent across all 18 chapters; only the
+  length of Shloka and Why It Lands flexes to match how much the source
+  chapter is actually carrying.
 - **Graphics**: one chapter-opener illustration per chapter (title-page
   style). Interior stays text-only — keeps it reflow-friendly for Kindle
   and keeps production manageable. Art direction briefs live in
