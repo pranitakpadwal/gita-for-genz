@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" width="1200" height="1600">
+  <defs>
+    <linearGradient id="room" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#efe7d6"/>
+      <stop offset="70%" stop-color="#f6f1e7"/>
+    </linearGradient>
+    <radialGradient id="phoneGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e6ac5c" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#e6ac5c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="1600" fill="url(#room)"/>
+
+  <!-- window, upper right, night -->
+  <g opacity="0.55">
+    <rect x="920" y="80" width="220" height="300" rx="4" fill="#241c12" opacity="0.05"/>
+    <line x1="1030" y1="80" x2="1030" y2="380" stroke="#241c12" stroke-width="4" opacity="0.09"/>
+    <line x1="920" y1="230" x2="1140" y2="230" stroke="#241c12" stroke-width="4" opacity="0.09"/>
+  </g>
+
+  <!-- faint bow-shaped shadow on the wall behind the figure -->
+  <path d="M 640,420 C 860,520 860,860 640,960" fill="none" stroke="#241c12" stroke-width="14" stroke-linecap="round" opacity="0.045"/>
+
+  <!-- string lights along the top of the desk -->
+  <g fill="#e6ac5c" opacity="0.85">
+    <circle cx="90" cy="1008" r="6"/>
+    <circle cx="170" cy="1012" r="6"/>
+    <circle cx="250" cy="1008" r="6"/>
+    <circle cx="990" cy="1010" r="6"/>
+    <circle cx="1070" cy="1006" r="6"/>
+    <circle cx="1140" cy="1011" r="6"/>
+  </g>
+
+  <!-- desk surface -->
+  <rect x="0" y="1020" width="1200" height="580" fill="#3a2c1c"/>
+  <rect x="0" y="1020" width="1200" height="10" fill="#2a2013"/>
+
+  <!-- open textbook, shoved aside, left -->
+  <g transform="translate(90,1055)">
+    <path d="M 0,50 L 170,12 L 340,50 L 340,110 L 170,74 L 0,110 Z" fill="#c9b896" opacity="0.55"/>
+    <line x1="170" y1="12" x2="170" y2="74" stroke="#241c12" stroke-width="3" opacity="0.3"/>
+  </g>
+
+  <!-- mug, right -->
+  <g transform="translate(940,1050)">
+    <rect x="0" y="26" width="100" height="100" rx="12" fill="#241c12" opacity="0.85"/>
+    <path d="M 100,50 C 145,50 145,105 100,105" fill="none" stroke="#241c12" stroke-width="13" opacity="0.85"/>
+  </g>
+
+  <!-- charger cable curl -->
+  <path d="M 760,1060 C 715,1120 820,1150 775,1220 C 745,1270 670,1250 690,1330"
+        fill="none" stroke="#241c12" stroke-width="7" stroke-linecap="round" opacity="0.3"/>
+
+  <!-- glow under the phone -->
+  <ellipse cx="560" cy="1105" rx="250" ry="100" fill="url(#phoneGlow)"/>
+
+  <!-- phone, face-down -->
+  <g transform="translate(420,1045) rotate(-4)">
+    <rect x="0" y="0" width="280" height="140" rx="28" fill="#241c12"/>
+    <rect x="0" y="0" width="280" height="140" rx="28" fill="none" stroke="#e6ac5c" stroke-width="2" opacity="0.4"/>
+    <rect x="6" y="132" width="268" height="10" rx="5" fill="#e6ac5c" opacity="0.65"/>
+  </g>
+
+  <!-- figure: hunched at the desk, head in hands -->
+  <g transform="translate(600,0)">
+    <!-- torso / hoodie -->
+    <path d="M -230,1040 C -230,860 -120,730 0,730 C 120,730 230,860 230,1040 Z"
+          fill="#241c12"/>
+
+    <!-- upper arms, from shoulder down to elbow near desk -->
+    <path d="M -195,820 C -235,880 -245,950 -215,1020 L -160,1010 C -175,950 -170,890 -145,845 Z" fill="#3c2f1d"/>
+    <path d="M 195,820 C 235,880 245,950 215,1020 L 160,1010 C 175,950 170,890 145,845 Z" fill="#3c2f1d"/>
+
+    <!-- forearms, elbow up to hands at the face -->
+    <path d="M -215,1015 C -230,930 -195,850 -130,800 L -95,835 C -150,875 -175,935 -165,1005 Z" fill="#4a3a24"/>
+    <path d="M 215,1015 C 230,930 195,850 130,800 L 95,835 C 150,875 175,935 165,1005 Z" fill="#4a3a24"/>
+
+    <!-- head -->
+    <circle cx="0" cy="640" r="115" fill="#241c12"/>
+
+    <!-- hands, overlapping the lower face -->
+    <ellipse cx="-92" cy="742" rx="58" ry="66" transform="rotate(-14 -92 742)" fill="#57452b"/>
+    <ellipse cx="92" cy="742" rx="58" ry="66" transform="rotate(14 92 742)" fill="#57452b"/>
+  </g>
+</svg>

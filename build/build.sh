@@ -17,6 +17,12 @@ if ! command -v pandoc >/dev/null 2>&1; then
   exit 1
 fi
 
+# Chapter/front-matter files reference images with paths relative to the repo
+# root (e.g. "assets/illustrations/final/01-the-freeze.png") -- run pandoc
+# from there so those resolve correctly regardless of where build.sh is
+# invoked from.
+cd "$ROOT_DIR"
+
 mkdir -p "$OUT_DIR"
 COMBINED="$OUT_DIR/manuscript.md"
 
@@ -52,6 +58,7 @@ pandoc "$COMBINED" \
   --metadata title="$BOOK_TITLE" \
   --metadata subtitle="$BOOK_SUBTITLE" \
   --metadata author="$BOOK_AUTHOR" \
+  --epub-cover-image="$ROOT_DIR/assets/cover/cover.png" \
   --toc --toc-depth=1 \
   -o "$OUT_DIR/krishna-texts-back.epub"
 

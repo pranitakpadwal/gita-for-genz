@@ -66,6 +66,13 @@ body {
   margin-top: 2.5rem;
   margin-bottom: 1rem;
   color: var(--accent);
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.prose-chapter h2 .section-icon {
+  flex-shrink: 0;
 }
 
 .prose-chapter p {
