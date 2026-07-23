@@ -26,18 +26,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${lora.variable} ${fraunces.variable}`}>
-      <body className="min-h-screen antialiased">
-        <div className="page-motifs" aria-hidden="true">
-          {/* eslint-disable @next/next/no-img-element */}
-          <img src="/motifs/peacock-feather.svg" className="motif motif-peacock" alt="" />
-          <img src="/motifs/chakra.svg" className="motif motif-chakra" alt="" />
-          <img src="/motifs/lotus.svg" className="motif motif-lotus" alt="" />
-          <img src="/motifs/shankha.svg" className="motif motif-shankha" alt="" />
-          <img src="/motifs/chariot-wheel.svg" className="motif motif-wheel" alt="" />
-          {/* eslint-enable @next/next/no-img-element */}
-        </div>
-        {children}
-      </body>
+      <body className="min-h-screen antialiased">{children}</body>
     </html>
   );
 }

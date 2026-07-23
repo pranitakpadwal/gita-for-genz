@@ -1,11 +1,11 @@
 @import "tailwindcss";
 
 :root {
-  --background: #f6f1e7; /* warm parchment */
-  --foreground: #241c12; /* deep ink brown */
-  --surface: #fffdf8;
-  --border: #e4d9c3;
-  --muted: #7a6f5c;
+  --background: #ffffff; /* plain white, per request */
+  --foreground: #1a1a1a;
+  --surface: #ffffff;
+  --border: #e5e5e5;
+  --muted: #6b6b6b;
   --accent: #a8471f; /* saffron-maroon */
   --accent-soft: #f3e3d3;
 }
@@ -24,11 +24,11 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #17130d;
-    --foreground: #ede4d3;
-    --surface: #201a12;
-    --border: #352b1d;
-    --muted: #a89b83;
+    --background: #121212;
+    --foreground: #eaeaea;
+    --surface: #121212;
+    --border: #2e2e2e;
+    --muted: #a3a3a3;
     --accent: #e08a52;
     --accent-soft: #2c2013;
   }
@@ -126,82 +126,3 @@ body {
   color: var(--foreground);
 }
 
-/* Shloka verse cards get their own watermark, distinct from the rest
-   of the page, so they read as a highlighted, quotable block. */
-.prose-chapter blockquote {
-  position: relative;
-  overflow: hidden;
-}
-
-.prose-chapter blockquote::after {
-  content: "";
-  position: absolute;
-  right: -30px;
-  bottom: -30px;
-  width: 140px;
-  height: 140px;
-  background-image: url("/motifs/chakra.svg");
-  background-size: contain;
-  background-repeat: no-repeat;
-  opacity: 0.08;
-  pointer-events: none;
-}
-
-/* Faint recurring symbols in the page margins: peacock feather, chakra,
-   lotus, shankha, chariot wheel. Nearly invisible, just texture. Hidden
-   below the width where they'd start overlapping the reading column. */
-.page-motifs {
-  position: fixed;
-  inset: 0;
-  z-index: -1;
-  pointer-events: none;
-}
-
-.page-motifs .motif {
-  position: absolute;
-  opacity: 0.05;
-}
-
-.motif-peacock {
-  top: 6%;
-  left: 3%;
-  width: 130px;
-}
-
-.motif-chakra {
-  top: 8%;
-  right: 4%;
-  width: 110px;
-}
-
-.motif-lotus {
-  bottom: 10%;
-  left: 4%;
-  width: 120px;
-}
-
-.motif-shankha {
-  bottom: 6%;
-  right: 3%;
-  width: 130px;
-}
-
-.motif-wheel {
-  top: 42%;
-  left: 50%;
-  width: 480px;
-  opacity: 0.018;
-  transform: translateX(-50%);
-}
-
-@media (max-width: 1180px) {
-  .page-motifs .motif:not(.motif-wheel) {
-    display: none;
-  }
-}
-
-@media (max-width: 700px) {
-  .motif-wheel {
-    display: none;
-  }
-}

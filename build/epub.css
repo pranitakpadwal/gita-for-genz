@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
 body {
-  background-color: #f6f1e7;
-  color: #241c12;
+  background-color: #ffffff;
+  color: #1a1a1a;
   font-family: Georgia, "Times New Roman", serif;
   line-height: 1.6;
   margin: 1em;
@@ -10,7 +10,7 @@ body {
 
 h1 {
   font-family: Georgia, "Times New Roman", serif;
-  color: #241c12;
+  color: #1a1a1a;
   font-weight: bold;
   font-size: 1.8em;
   margin-top: 0;
@@ -39,17 +39,17 @@ p {
 }
 
 p.subtitle {
-  color: #7a6f5c;
+  color: #6b6b6b;
   font-style: italic;
 }
 
 em {
-  color: #7a6f5c;
+  color: #6b6b6b;
   font-style: italic;
 }
 
 strong {
-  color: #241c12;
+  color: #1a1a1a;
 }
 
 blockquote {
@@ -75,7 +75,7 @@ blockquote p:last-child {
 
 hr {
   border: none;
-  border-top: 1px solid #e4d9c3;
+  border-top: 1px solid #e5e5e5;
   margin: 2em 0;
 }
 
@@ -96,7 +96,7 @@ nav#toc ol {
 }
 
 nav#toc a {
-  color: #241c12;
+  color: #1a1a1a;
   text-decoration: none;
 }
 
@@ -142,6 +142,6 @@ section.titlepage p.author {
   font-size: 1em;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: #7a6f5c;
+  color: #6b6b6b;
   font-style: normal;
 }
