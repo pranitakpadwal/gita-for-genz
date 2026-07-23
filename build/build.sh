@@ -28,11 +28,15 @@ COMBINED="$OUT_DIR/manuscript.md"
 
 {
   shopt -s nullglob
-  for f in "$ROOT_DIR"/manuscript/front-matter/*.md; do
+  for f in $(ls "$ROOT_DIR"/manuscript/front-matter/*.md 2>/dev/null | sort); do
     cat "$f"
     printf '\n\n'
   done
   for f in $(ls "$ROOT_DIR"/manuscript/chapters/*.md | sort); do
+    cat "$f"
+    printf '\n\n'
+  done
+  for f in $(ls "$ROOT_DIR"/manuscript/back-matter/*.md 2>/dev/null | sort); do
     cat "$f"
     printf '\n\n'
   done
