@@ -99,3 +99,49 @@ nav#toc a {
   color: #241c12;
   text-decoration: none;
 }
+
+/* The cover page must be full-bleed, no margin box around the art. */
+body#cover {
+  margin: 0;
+  padding: 0;
+  background-color: #1a1109;
+}
+
+#cover-image {
+  margin: 0;
+  padding: 0;
+}
+
+#cover-image svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+/* Title page: centered like an actual book title page, not top-left text. */
+section.titlepage {
+  text-align: center;
+  padding-top: 3.5em;
+}
+
+h1.title {
+  text-align: center;
+  font-size: 2.2em;
+  margin-bottom: 0.3em;
+}
+
+section.titlepage p.subtitle {
+  text-align: center;
+  font-size: 1.15em;
+  font-style: italic;
+  margin-bottom: 2.5em;
+}
+
+section.titlepage p.author {
+  text-align: center;
+  font-size: 1em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #7a6f5c;
+  font-style: normal;
+}
