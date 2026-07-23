@@ -125,3 +125,83 @@ body {
   font-size: 1.0625rem;
   color: var(--foreground);
 }
+
+/* Shloka verse cards get their own watermark, distinct from the rest
+   of the page, so they read as a highlighted, quotable block. */
+.prose-chapter blockquote {
+  position: relative;
+  overflow: hidden;
+}
+
+.prose-chapter blockquote::after {
+  content: "";
+  position: absolute;
+  right: -30px;
+  bottom: -30px;
+  width: 140px;
+  height: 140px;
+  background-image: url("/motifs/chakra.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 0.08;
+  pointer-events: none;
+}
+
+/* Faint recurring symbols in the page margins: peacock feather, chakra,
+   lotus, shankha, chariot wheel. Nearly invisible, just texture. Hidden
+   below the width where they'd start overlapping the reading column. */
+.page-motifs {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+}
+
+.page-motifs .motif {
+  position: absolute;
+  opacity: 0.05;
+}
+
+.motif-peacock {
+  top: 6%;
+  left: 3%;
+  width: 130px;
+}
+
+.motif-chakra {
+  top: 8%;
+  right: 4%;
+  width: 110px;
+}
+
+.motif-lotus {
+  bottom: 10%;
+  left: 4%;
+  width: 120px;
+}
+
+.motif-shankha {
+  bottom: 6%;
+  right: 3%;
+  width: 130px;
+}
+
+.motif-wheel {
+  top: 42%;
+  left: 50%;
+  width: 480px;
+  opacity: 0.018;
+  transform: translateX(-50%);
+}
+
+@media (max-width: 1180px) {
+  .page-motifs .motif:not(.motif-wheel) {
+    display: none;
+  }
+}
+
+@media (max-width: 700px) {
+  .motif-wheel {
+    display: none;
+  }
+}
