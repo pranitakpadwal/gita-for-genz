@@ -29,9 +29,9 @@ commit these):
 
 `build/reference.docx` is a Word style template pandoc uses to format the
 output — it defines what "Heading 1" (chapter titles), "Heading 2"
-(Scene/Shloka/Why It Lands/Takeaway), "Normal" (body text), and "Block
-Text" (the Sanskrit verse quotes) look like. Two things are already set
-up in it:
+(Scene/Shloka/Real Talk/Takeaway), "Normal" (body text), and "Block Text"
+(the Sanskrit verse quotes) look like. Several things are already set up
+in it:
 
 - Every chapter (`# Fight N: ...`, a Heading 1) starts on a fresh page
   automatically.
@@ -39,11 +39,36 @@ up in it:
   Lora/Fraunces used on the preview site, because those are Google Fonts
   Word/KDP's converter can't use; Georgia/Garamond are universally
   available serifs that read as "book," not "webpage."
+- Headings have "keep with next" set, so a heading can't get stranded
+  alone at the bottom of a page with its content pushed to the next one.
+- Shloka verse quotes (Block Text style) have a light shaded background,
+  matching the highlighted look on the preview site.
+- A faint chakra symbol is anchored in the header, centered and behind
+  the text, so it repeats on every page — see "Page watermark" below.
 
 To change fonts, spacing, or heading style further: open
 `build/reference.docx` in Word or Google Docs, edit the styles (not the
 placeholder text), save, and re-run the build. Pandoc reads the style
 definitions, not the content, from this file.
+
+### Page watermark
+
+`build/scripts/add-header-watermark.py` is what generated the chakra
+watermark already baked into `reference.docx` — it's a one-time setup
+script, already run, not part of the normal `build.sh` flow. Only run it
+again if you want to swap the image, resize it, or change its opacity
+(edit `assets/illustrations/motifs/chakra-watermark.png`, or point the
+script at a different motif from that folder, then re-run the script).
+
+This is confirmed structurally correct (a real "behind text" floating
+image in the header, the same mechanism as Word's own Insert > Watermark)
+but not visually verified in this environment — LibreOffice's headless
+PDF conversion doesn't work in this sandbox, unrelated to this file
+specifically. Open the docx directly in Word to check it. It's also
+untested whether this survives KDP's conversion to the actual Kindle
+file — Kindle's reflowable format has no fixed "page" and often strips
+header content, so don't be surprised if it doesn't carry through to a
+real device even though it shows in Word.
 
 ## Getting it onto Amazon
 
