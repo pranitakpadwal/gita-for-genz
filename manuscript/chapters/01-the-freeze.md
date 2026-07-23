@@ -26,9 +26,29 @@ The setting: two armies, the Pandavas and the Kauravas, facing each other across
 
 And that's the moment it breaks him. Because the people on the other side aren't strangers. They're his cousins. His teachers. His grandfather — the man who taught him archery and bounced him on his knee as a kid. Everyone he'd have to cut down to win is someone whose face he knows (BG 1.26–27).
 
-Arjuna doesn't hesitate because he's a coward. He's the best fighter on the field. He hesitates because he can see with total clarity exactly who gets hurt, and it's not some abstraction — it's people he loves. He tells Krishna his limbs are shaking, his mouth has gone dry, his bow feels too heavy to hold, his mind is "reeling" (1.28–30). He argues — reasonably, articulately — that even winning this fight would ruin him, that some lines shouldn't be crossed even for a just cause (1.31–44).
+Arjuna doesn't hesitate because he's a coward. He's the best fighter on the field. He hesitates because he can see with total clarity exactly who gets hurt, and it's not some abstraction — it's people he loves. He tells Krishna, in his own words:
 
-And then, mid-battlefield, in front of both armies: he puts down his bow and arrow and just sits down in his chariot, "overwhelmed with grief" (1.47).
+> **BG 1.28–30**
+>
+> *dṛṣṭvemaṁ sva-janaṁ kṛṣṇa yuyutsuṁ samupasthitam*  
+> *sīdanti mama gātrāṇi mukhaṁ ca pariśuṣyati*  
+> *vepathuś ca śarīre me roma-harṣaś ca jāyate*  
+> *gāṇḍīvaṁ sraṁsate hastāt tvak caiva paridahyate*  
+> *na ca śaknomy avasthātuṁ bhramatīva ca me manaḥ*  
+> *nimittāni ca paśyāmi viparītāni keśava*
+>
+> "Seeing my own people here, Krishna, standing ready to fight — my limbs give way, my mouth is drying up, my body is shaking, my hair is standing on end. Gandiva is slipping out of my hand, my skin feels like it's burning. I can't even stay standing. My mind is spinning. Every sign I see is a bad one."
+
+He argues — reasonably, articulately — that even winning this fight would ruin him, that some lines shouldn't be crossed even for a just cause (1.31–44).
+
+And then, mid-battlefield, in front of both armies:
+
+> **BG 1.47**
+>
+> *evam uktvārjunaḥ saṅkhye rathopastha upāviśat*  
+> *visṛjya sa-śaraṁ cāpaṁ śoka-saṁvigna-mānasaḥ*
+>
+> "Sanjaya said: Having said this, right there on the battlefield, Arjuna sank down onto the seat of his chariot. He let go of his bow and arrows. His mind had given way to grief."
 
 That's the entire first chapter. No wisdom yet. No answers. The Bhagavad Gita — one of the most famous texts on how to act in the world — opens with its hero completely unable to act at all.
 

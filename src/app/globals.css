@@ -87,3 +87,34 @@ body {
 .prose-chapter em {
   color: var(--muted);
 }
+
+.prose-chapter blockquote {
+  margin: 1.75rem 0;
+  padding: 1.5rem 1.75rem;
+  background: var(--accent-soft);
+  border-left: 3px solid var(--accent);
+  border-radius: 0.25rem;
+}
+
+.prose-chapter blockquote p {
+  margin-bottom: 0.4rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.prose-chapter blockquote p:first-child {
+  font-family: var(--font-fraunces), Georgia, serif;
+  font-weight: 600;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.75rem;
+  margin-bottom: 0.85rem;
+}
+
+.prose-chapter blockquote p:last-child {
+  margin-top: 0.85rem;
+  margin-bottom: 0;
+  font-size: 1.0625rem;
+  color: var(--foreground);
+}
