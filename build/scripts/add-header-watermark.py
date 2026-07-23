@@ -1,9 +1,13 @@
-# One-time setup script: bakes a faint chakra watermark into every page of
+# One-time setup script: bakes a faint multi-symbol watermark (chakra,
+# chariot wheel, peacock feather, lotus, shankha) into every page of
 # build/reference.docx via a floating, "behind text" picture in the header
 # (the same mechanism Word's own Insert > Watermark feature uses). Already
 # run once -- reference.docx has the watermark saved in it, so build.sh
 # doesn't need to re-run this. Only re-run if you want to change the
 # watermark image, size, or opacity; requires `pip install python-docx`.
+# Must run AFTER style-reference-docx.py if reference.docx was
+# regenerated from a clean pandoc default, since that script doesn't
+# touch the header.
 #
 # Note: this shows up when the docx is opened directly (Word, Google Docs,
 # etc.) and may or may not survive KDP's conversion to the actual Kindle
@@ -16,7 +20,7 @@ from docx.oxml import parse_xml
 from docx.oxml.ns import nsmap
 
 path = "/workspace/gita-for-genz/build/reference.docx"
-image_path = "/workspace/gita-for-genz/assets/illustrations/motifs/chakra-watermark.png"
+image_path = "/workspace/gita-for-genz/assets/illustrations/motifs/page-watermark.png"
 
 d = docx.Document(path)
 section = d.sections[0]
@@ -25,8 +29,13 @@ header.is_linked_to_previous = False
 
 rId, image = header.part.get_or_add_image(image_path)
 
+# page-watermark.png is 700x900 (portrait, ratio 1.2857) -- keep that
+# ratio rather than forcing it square.
 EMU = 914400
-size = int(4.2 * EMU)
+width_in = 6.0
+height_in = width_in * (900 / 700)
+cx = int(width_in * EMU)
+cy = int(height_in * EMU)
 
 xml = f'''
 <w:p xmlns:w="{nsmap['w']}">
@@ -41,7 +50,7 @@ xml = f'''
         <wp:positionV relativeFrom="page">
           <wp:align>center</wp:align>
         </wp:positionV>
-        <wp:extent cx="{size}" cy="{size}"/>
+        <wp:extent cx="{cx}" cy="{cy}"/>
         <wp:wrapNone/>
         <wp:docPr id="1001" name="Watermark"/>
         <wp:cNvGraphicFramePr/>
@@ -49,7 +58,7 @@ xml = f'''
           <a:graphicData uri="{nsmap['pic']}">
             <pic:pic xmlns:pic="{nsmap['pic']}">
               <pic:nvPicPr>
-                <pic:cNvPr id="0" name="watermark-chakra.png"/>
+                <pic:cNvPr id="0" name="page-watermark.png"/>
                 <pic:cNvPicPr/>
               </pic:nvPicPr>
               <pic:blipFill>
@@ -59,7 +68,7 @@ xml = f'''
               <pic:spPr>
                 <a:xfrm>
                   <a:off x="0" y="0"/>
-                  <a:ext cx="{size}" cy="{size}"/>
+                  <a:ext cx="{cx}" cy="{cy}"/>
                 </a:xfrm>
                 <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
               </pic:spPr>

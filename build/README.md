@@ -43,18 +43,33 @@ in it:
   alone at the bottom of a page with its content pushed to the next one.
 - Shloka verse quotes (Block Text style) have a light shaded background,
   matching the highlighted look on the preview site.
-- A faint chakra symbol is anchored in the header, centered and behind
-  the text, so it repeats on every page — see "Page watermark" below.
+- A faint composite watermark (chakra, chariot wheel, peacock feather,
+  lotus, shankha) is anchored in the header, centered and behind the
+  text, so it repeats on every page — see "Page watermark" below.
 
-To change fonts, spacing, or heading style further: open
-`build/reference.docx` in Word or Google Docs, edit the styles (not the
-placeholder text), save, and re-run the build. Pandoc reads the style
-definitions, not the content, from this file.
+All of this is applied by two scripts, run once, in order, against a
+clean pandoc-generated `reference.docx`:
+`build/scripts/style-reference-docx.py` (fonts, page breaks, keep-with-
+next, shloka shading), then `build/scripts/add-header-watermark.py`
+(the page watermark). Re-run both, in that order, if `reference.docx`
+ever needs to be regenerated from scratch:
+
+```
+pandoc --print-default-data-file reference.docx > build/reference.docx
+python3 build/scripts/style-reference-docx.py
+python3 build/scripts/add-header-watermark.py
+```
+
+To change fonts, spacing, or heading style further without starting
+over: open `build/reference.docx` in Word or Google Docs, edit the
+styles (not the placeholder text), save, and re-run the build. Pandoc
+reads the style definitions, not the content, from this file.
 
 ### Page watermark
 
-`build/scripts/add-header-watermark.py` is what generated the chakra
-watermark already baked into `reference.docx` — it's a one-time setup
+`build/scripts/add-header-watermark.py` is what generated the
+composite watermark (`assets/illustrations/motifs/page-watermark.png`)
+already baked into `reference.docx` — it's a one-time setup
 script, already run, not part of the normal `build.sh` flow. Only run it
 again if you want to swap the image, resize it, or change its opacity
 (edit `assets/illustrations/motifs/chakra-watermark.png`, or point the
