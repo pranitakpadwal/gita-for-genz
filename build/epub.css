@@ -13,12 +13,8 @@ h1 {
   color: #1a1a1a;
   font-weight: bold;
   font-size: 1.8em;
-  margin-top: 0;
-  page-break-before: always;
-}
-
-h1.title {
-  page-break-before: avoid;
+  margin-top: 1.2em;
+  margin-bottom: 0.8em;
 }
 
 h2 {
@@ -27,6 +23,14 @@ h2 {
   font-weight: bold;
   font-size: 1.25em;
   margin-top: 1.8em;
+}
+
+h2 img {
+  width: 0.9em;
+  height: 0.9em;
+  margin: 0 0.35em 0 0;
+  display: inline;
+  vertical-align: baseline;
 }
 
 h3 {
@@ -53,11 +57,10 @@ strong {
 }
 
 blockquote {
-  background-color: #f3e3d3;
-  border-left: 4px solid #a8471f;
-  padding: 0.9em 1.2em;
+  background-color: transparent;
+  border-left: 3px solid #a8471f;
+  padding: 0.2em 0 0.2em 1.2em;
   margin: 1.5em 0;
-  border-radius: 2px;
 }
 
 blockquote p:first-child {

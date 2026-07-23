@@ -44,6 +44,18 @@ COMBINED="$OUT_DIR/manuscript.md"
 
 echo "Combined manuscript -> $COMBINED"
 
+# Section-icon version: prepend the matching icon image to each section
+# heading (Scene / Shloka / Real Talk / Takeaway), so the ebook has the
+# same little icons the website shows. Only the epub uses this; the docx
+# uses the plain combined file.
+COMBINED_ICONS="$OUT_DIR/manuscript-icons.md"
+sed \
+  -e 's|^## Scene$|## ![](assets/illustrations/icons/scene.svg){width=18px} Scene|' \
+  -e 's|^## Shloka$|## ![](assets/illustrations/icons/shloka.svg){width=18px} Shloka|' \
+  -e 's|^## Real Talk$|## ![](assets/illustrations/icons/why-it-lands.svg){width=18px} Real Talk|' \
+  -e 's|^## Takeaway$|## ![](assets/illustrations/icons/takeaway.svg){width=18px} Takeaway|' \
+  "$COMBINED" > "$COMBINED_ICONS"
+
 pandoc "$COMBINED" \
   --from=markdown+smart \
   --to=docx \
@@ -56,7 +68,7 @@ pandoc "$COMBINED" \
 
 echo "Kindle-ready docx -> $OUT_DIR/krishna-texts-back.docx"
 
-pandoc "$COMBINED" \
+pandoc "$COMBINED_ICONS" \
   --from=markdown+smart \
   --to=epub3 \
   --css="$ROOT_DIR/build/epub.css" \
