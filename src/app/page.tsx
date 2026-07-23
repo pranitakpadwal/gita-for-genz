@@ -9,12 +9,15 @@ export default function HomePage() {
       <p className="text-sm uppercase tracking-[0.2em] text-muted mb-3">
         Work in progress · preview build
       </p>
-      <h1 className="font-display text-4xl sm:text-5xl font-semibold mb-4">
-        Gita for Gen Z
+      <h1 className="font-display text-4xl sm:text-5xl font-semibold mb-2">
+        Krishna Texts Back
       </h1>
+      <p className="font-display text-xl italic text-accent mb-6">
+        18 Fights You&rsquo;re Already In
+      </p>
       <p className="text-lg text-muted leading-relaxed mb-12">
         The Bhagavad Gita&rsquo;s 18 chapters, retold through the situations
-        we actually live in. Each chapter: a real scene, the actual shloka,
+        we actually live in. Each fight: a real scene, the actual shloka,
         one takeaway.
       </p>
 
@@ -43,14 +46,14 @@ export default function HomePage() {
         ))}
         {chapters.length === 0 && (
           <li className="text-muted italic py-6">
-            No chapters drafted yet — check back soon.
+            No fights drafted yet — check back soon.
           </li>
         )}
       </ol>
 
       {chapters.length > 0 && chapters.length < 18 && (
         <p className="mt-12 text-sm text-muted">
-          {chapters.length} of 18 chapters drafted so far. This is a preview
+          {chapters.length} of 18 fights drafted so far. This is a preview
           build, not the final manuscript — content, order, and design are
           all still in progress.
         </p>

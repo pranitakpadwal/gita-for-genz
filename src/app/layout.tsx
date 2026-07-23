@@ -14,9 +14,9 @@ const fraunces = Fraunces({
 });
 
 export const metadata: Metadata = {
-  title: "Gita for Gen Z — Preview",
+  title: "Krishna Texts Back — Preview",
   description:
-    "A chapter-by-chapter preview of the Bhagavad Gita retold for Gen Z: real scenes, real shlokas, one takeaway per chapter.",
+    "18 Fights You're Already In — the Bhagavad Gita retold through real scenes, real shlokas, one takeaway per chapter.",
 };
 
 export default function RootLayout({

@@ -1,4 +1,4 @@
-# Chapter 1: The Freeze
+# Fight 1: The Freeze
 
 *Arjuna Vishada Yoga — "The Yoga of Arjuna's Despair" (Bhagavad Gita, Chapter 1)*
 
