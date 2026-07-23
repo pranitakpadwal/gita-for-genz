@@ -75,11 +75,16 @@ assets/
   illustrations/
     briefs/          text art-direction briefs, one per chapter
   cover/             front cover assets (added once content is locked)
-build/               md -> docx/pdf export pipeline (added once format is approved)
+build/
+  build.sh           manuscript -> docx (Kindle) + epub, see build/README.md
+  reference.docx     Word style template build.sh uses (fonts, page breaks)
 ```
 
 ## Status
 
-Fight 1 is a **format sample**, drafted and approved. Title and editorial
-guardrails are locked (see above). Next: outline all 18 chapters, then
-draft the rest. See `manuscript/chapters/01-the-freeze.md`.
+Fight 1 is a **format sample**, drafted, revised, and approved. Title and
+editorial guardrails are locked (see above). The manuscript → ebook build
+pipeline works (see `build/README.md` for how to run it and upload to
+KDP) — currently a one-chapter test of the pipeline, not the finished
+book. Next: outline all 18 chapters, then draft the rest. See
+`manuscript/chapters/01-the-freeze.md`.
