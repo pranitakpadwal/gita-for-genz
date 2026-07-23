@@ -11,7 +11,7 @@ type RouteParams = { slug: string };
 const SECTION_ICONS: Record<string, string> = {
   Scene: "/icons/scene.svg",
   Shloka: "/icons/shloka.svg",
-  "Why It Lands": "/icons/why-it-lands.svg",
+  "Real Talk": "/icons/why-it-lands.svg",
   Takeaway: "/icons/takeaway.svg",
 };
 

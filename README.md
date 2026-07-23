@@ -18,7 +18,9 @@ Same teaching. Less gyaan, more "oh, this is literally me right now."
 - **Format**: Kindle ebook first (reflowable, ships fast, easy to revise),
   paperback / print-on-demand second once the content is locked.
 - **Structure per chapter, labeled "Fight 1" through "Fight 18"** — locked,
-  final: **Scene → Shloka → Why It Lands → Takeaway.**
+  final: **Scene → Shloka → Real Talk → Takeaway.** (Section 3 was
+  originally called "Why It Lands" — renamed after reader feedback that
+  the label itself was confusing. Same job, clearer name.)
   1. *Scene* — a real, specific Gen Z moment (named character, present
      tense) that puts the reader inside the same emotional problem Arjuna
      or Krishna is dealing with in that chapter — no explanation yet, just
@@ -30,17 +32,17 @@ Same teaching. Less gyaan, more "oh, this is literally me right now."
      18 — the ones carrying real argument, not just a moment), this
      section runs longer and can move through 2–3 sub-scenes instead of
      one.
-  3. *Why It Lands* — the bridge. Connects the textual explanation back to
+  3. *Real Talk* — the bridge. Connects the textual explanation back to
      the reader directly: this is you, right now, in that scene. Makes
      the meta-point explicit (why the Gita handles it this way) and
      universalizes it. This is the section that does the actual arguing —
-     Shloka informs, Why It Lands persuades.
+     Shloka informs, Real Talk persuades.
   4. *Takeaway* — one tight, quotable line (or a short paragraph, max)
-     that compresses Why It Lands into something screenshot-able. It's
-     meant to overlap with Why It Lands on purpose — this is the
-     retention line for skimmers, not new content.
+     that compresses Real Talk into something screenshot-able. It's
+     meant to overlap with Real Talk on purpose — this is the retention
+     line for skimmers, not new content.
   The 4-part shape stays consistent across all 18 chapters; only the
-  length of Shloka and Why It Lands flexes to match how much the source
+  length of Shloka and Real Talk flexes to match how much the source
   chapter is actually carrying.
 - **Graphics**: one chapter-opener illustration per chapter (title-page
   style). Interior stays text-only — keeps it reflow-friendly for Kindle
@@ -52,6 +54,26 @@ Same teaching. Less gyaan, more "oh, this is literally me right now."
 
 ## Editorial guardrails
 
+- **No em dashes.** Zero, in any chapter. Reader feedback on Fight 1 was
+  that the prose read as AI-written, and the em dash is one of the more
+  recognizable tells. Use a period, comma, colon, or parentheses instead,
+  or just restructure the sentence. (En dashes in verse citations like
+  `BG 1.28–30` are fine, that's a normal number-range convention, not the
+  same thing.)
+- **Don't overuse "it's not X, it's Y."** That reversal construction
+  ("Arjuna doesn't hesitate because he's a coward, he hesitates because
+  ...") is a natural move, but Fight 1's first draft leaned on it 8-9
+  times in one chapter and it started reading as a tic, not a voice. One,
+  maybe two per chapter, and vary how it's built (fragments, direct
+  statement, a question) instead of repeating the same two-sentence
+  shape.
+- **Lead with the feeling, not the analysis.** Reader feedback also
+  flagged "emotions missing" — the risk of this format is that Shloka and
+  Real Talk read as explainers instead of something felt. Put physical,
+  specific sensation in the Scene (stomach hurting, throat tight, feet
+  heavy) rather than naming the emotion abstractly, and let Real Talk
+  stay a little rough around the edges rather than fully resolved and
+  tidy.
 - **Don't flatten the philosophy.** This genre gets fairly criticized for
   reducing the Gita to feel-good one-liners that fall apart under any
   real scrutiny. The dense chapters (see above) are allowed to be longer
