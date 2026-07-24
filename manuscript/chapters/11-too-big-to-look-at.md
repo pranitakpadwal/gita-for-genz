@@ -1,5 +1,7 @@
 # Fight 11: Too Big to Look At
 
+![](assets/illustrations/final/11-too-big-to-look-at.png)
+
 *Vishvarupa Darshana Yoga, "The Yoga of the Vision of the Universal Form" (Bhagavad Gita, Chapter 11)*
 
 ---

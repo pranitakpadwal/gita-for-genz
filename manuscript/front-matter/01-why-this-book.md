@@ -1,5 +1,7 @@
 # Why This Book Exists
 
+![](assets/illustrations/final/00-krishna-portrait.png)
+
 You're about to read the Bhagavad Gita. Just not the way it's usually handed to you.
 
 No thousand-year preamble. No footnotes before you've even met anyone. Every one of the next 18 chapters (we call them Fights, because that's what they actually are) starts with a real scene: a group chat you're afraid to speak up in, a job you can't tell your parents you want to quit, a version of yourself you're scared to become. Something you've actually lived, or will.

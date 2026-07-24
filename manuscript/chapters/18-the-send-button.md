@@ -1,5 +1,7 @@
 # Fight 18: The Send Button
 
+![](assets/illustrations/final/18-the-send-button.png)
+
 *Moksha Sannyasa Yoga, "The Yoga of Liberation Through Renunciation" (Bhagavad Gita, Chapter 18)*
 
 ---

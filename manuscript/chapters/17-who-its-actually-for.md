@@ -1,5 +1,7 @@
 # Fight 17: Who It's Actually For
 
+![](assets/illustrations/final/17-who-its-actually-for.png)
+
 *Shraddhatraya Vibhaga Yoga, "The Yoga of the Three Divisions of Faith" (Bhagavad Gita, Chapter 17)*
 
 ---
