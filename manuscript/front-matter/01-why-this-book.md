@@ -18,12 +18,13 @@ You've grown up with more decision paralysis, more curated versions of your own 
 
 ## How to read each chapter
 
-Four parts, always in this order:
+Five parts, always in this order:
 
 - **Scene**: the modern moment. No context yet, no philosophy. Just the situation.
 - **Shloka**: what actually happens in that chapter of the Gita, with the real verses, in Sanskrit and in plain English.
 - **Real Talk**: the bridge. Why the ancient text is describing your Tuesday night, specifically.
 - **Takeaway**: one line. The thing worth remembering after you've forgotten the rest of the page.
+- **Krishna Texts Back**: Krishna, speaking straight to you, in your situation, in his own voice.
 
 Read it in order, or skip straight to the fight you're currently in. Both work.
 

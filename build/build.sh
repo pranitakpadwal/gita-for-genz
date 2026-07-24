@@ -6,10 +6,16 @@
 
 set -euo pipefail
 
+# Force a UTF-8 locale: under POSIX/C locale, bash mangles multi-byte
+# characters (like the curly apostrophe in BOOK_SUBTITLE below) when they
+# pass through shell variables/arguments, producing mojibake in pandoc's
+# output even though this file itself is valid UTF-8.
+export LC_ALL=C.utf8
+
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 OUT_DIR="$ROOT_DIR/build/output"
 BOOK_TITLE="Krishna Texts Back"
-BOOK_SUBTITLE="18 Fights You're Already In"
+BOOK_SUBTITLE="18 Fights You’re Already In"
 BOOK_AUTHOR="Rudra Prasad Kasturi"
 
 if ! command -v pandoc >/dev/null 2>&1; then
