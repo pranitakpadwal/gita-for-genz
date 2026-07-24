@@ -54,13 +54,19 @@ echo "Combined manuscript -> $COMBINED"
 # heading (Scene / Shloka / Real Talk / Takeaway), so the ebook has the
 # same little icons the website shows. Only the epub uses this; the docx
 # uses the plain combined file.
+#
+# PNG, not SVG: pandoc's epub writer mislabels embedded SVGs with a
+# .svgz extension (implying gzip compression) while leaving the content
+# uncompressed, which Amazon's KDP converter chokes on ("couldn't
+# convert your HTML file to Kindle format"). Kindle's renderer also has
+# unreliable SVG support in general, so PNG icons sidestep both problems.
 COMBINED_ICONS="$OUT_DIR/manuscript-icons.md"
 sed \
-  -e 's|^## Scene$|## ![](assets/illustrations/icons/scene.svg){width=18px} Scene|' \
-  -e 's|^## Shloka$|## ![](assets/illustrations/icons/shloka.svg){width=18px} Shloka|' \
-  -e 's|^## Real Talk$|## ![](assets/illustrations/icons/why-it-lands.svg){width=18px} Real Talk|' \
-  -e 's|^## Takeaway$|## ![](assets/illustrations/icons/takeaway.svg){width=18px} Takeaway|' \
-  -e 's|^## Krishna Texts Back$|## ![](assets/illustrations/icons/krishna.svg){width=18px} Krishna Texts Back|' \
+  -e 's|^## Scene$|## ![](assets/illustrations/icons/scene.png){width=18px} Scene|' \
+  -e 's|^## Shloka$|## ![](assets/illustrations/icons/shloka.png){width=18px} Shloka|' \
+  -e 's|^## Real Talk$|## ![](assets/illustrations/icons/why-it-lands.png){width=18px} Real Talk|' \
+  -e 's|^## Takeaway$|## ![](assets/illustrations/icons/takeaway.png){width=18px} Takeaway|' \
+  -e 's|^## Krishna Texts Back$|## ![](assets/illustrations/icons/krishna.png){width=18px} Krishna Texts Back|' \
   "$COMBINED" > "$COMBINED_ICONS"
 
 pandoc "$COMBINED" \
