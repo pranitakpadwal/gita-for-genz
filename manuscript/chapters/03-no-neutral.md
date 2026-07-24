@@ -1,6 +1,6 @@
 # Fight 3: No Neutral
 
-![](assets/illustrations/final/03-no-neutral.png)
+![](assets/illustrations/final/03-no-neutral.png){width=2.75in}
 
 *Karma Yoga, "The Yoga of Action" (Bhagavad Gita, Chapter 3)*
 

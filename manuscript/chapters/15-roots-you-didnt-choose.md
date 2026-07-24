@@ -1,6 +1,6 @@
 # Fight 15: Roots You Didn't Choose
 
-![](assets/illustrations/final/15-roots-you-didnt-choose.png)
+![](assets/illustrations/final/15-roots-you-didnt-choose.png){width=2.75in}
 
 *Purushottama Yoga, "The Yoga of the Supreme Person" (Bhagavad Gita, Chapter 15)*
 

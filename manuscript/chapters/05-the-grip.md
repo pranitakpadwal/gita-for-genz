@@ -1,6 +1,6 @@
 # Fight 5: The Grip
 
-![](assets/illustrations/final/05-the-grip.png)
+![](assets/illustrations/final/05-the-grip.png){width=2.75in}
 
 *Karma Sannyasa Yoga, "The Yoga of Renunciation" (Bhagavad Gita, Chapter 5)*
 

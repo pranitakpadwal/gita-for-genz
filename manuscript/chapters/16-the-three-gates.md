@@ -1,6 +1,6 @@
 # Fight 16: The Three Gates
 
-![](assets/illustrations/final/16-the-three-gates.png)
+![](assets/illustrations/final/16-the-three-gates.png){width=2.75in}
 
 *Daivasura Sampad Vibhaga Yoga, "The Yoga of Divine and Demonic Natures" (Bhagavad Gita, Chapter 16)*
 

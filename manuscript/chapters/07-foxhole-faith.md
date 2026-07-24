@@ -1,6 +1,6 @@
 # Fight 7: Foxhole Faith
 
-![](assets/illustrations/final/07-foxhole-faith.png)
+![](assets/illustrations/final/07-foxhole-faith.png){width=2.75in}
 
 *Jnana Vijnana Yoga, "The Yoga of Knowledge and Realization" (Bhagavad Gita, Chapter 7)*
 

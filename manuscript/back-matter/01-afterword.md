@@ -1,5 +1,7 @@
 # Afterword
 
+![](assets/illustrations/final/19-epilogue.png){width=2.75in}
+
 You made it through all eighteen. That's not nothing, and it's worth pausing on for a second before you close the book.
 
 Here's the thing this book was never trying to hide: reading eighteen chapters doesn't finish anything. Arjuna picked the bow back up at the end of chapter eighteen and still had to actually fight the war. Nothing about finishing this book means you're done freezing, done gripping too hard, done needing to hear the same lesson again on a worse night than tonight. You'll probably reread some of these fights more than once, possibly the same one, for the same reason, more than a few times. That's not failure. That's just what practicing something real looks like, and this book said so from the very first chapter.

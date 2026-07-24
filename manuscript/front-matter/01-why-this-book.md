@@ -1,6 +1,6 @@
 # Why This Book Exists
 
-![](assets/illustrations/final/00-krishna-portrait.png)
+![](assets/illustrations/final/00-krishna-portrait.png){width=3in}
 
 You're about to read the Bhagavad Gita. Just not the way it's usually handed to you.
 

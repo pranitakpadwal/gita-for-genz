@@ -1,6 +1,6 @@
 # Fight 12: The Real Thing
 
-![](assets/illustrations/final/12-the-real-thing.png)
+![](assets/illustrations/final/12-the-real-thing.png){width=2.75in}
 
 *Bhakti Yoga, "The Yoga of Devotion" (Bhagavad Gita, Chapter 12)*
 

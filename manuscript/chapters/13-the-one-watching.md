@@ -1,6 +1,6 @@
 # Fight 13: The One Watching
 
-![](assets/illustrations/final/13-the-one-watching.png)
+![](assets/illustrations/final/13-the-one-watching.png){width=2.75in}
 
 *Kshetra Kshetrajna Vibhaga Yoga, "The Yoga of the Field and Its Knower" (Bhagavad Gita, Chapter 13)*
 

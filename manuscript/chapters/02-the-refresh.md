@@ -1,6 +1,6 @@
 # Fight 2: The Refresh
 
-![](assets/illustrations/final/02-the-refresh.png)
+![](assets/illustrations/final/02-the-refresh.png){width=2.75in}
 
 *Sankhya Yoga, "The Yoga of Knowledge" (Bhagavad Gita, Chapter 2)*
 
