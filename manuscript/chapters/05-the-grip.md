@@ -6,7 +6,7 @@
 
 ## Scene
 
-You've started the "I'm going to drop everything and go find myself" fantasy for the third time this year.
+The escape plan is back, running on a loop in your head. Third time this year.
 
 It's always the same shape. Quit the job. Sell the stuff. Move somewhere far away and cheap and become a completely different, lighter, less anxious version of yourself who doesn't check Slack at 11 p.m. You've got the tab open right now, actually, a one-way flight, absurdly cheap, practically daring you.
 

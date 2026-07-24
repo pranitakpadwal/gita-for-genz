@@ -6,7 +6,7 @@
 
 ## Scene
 
-You've watched the footage of yourself a dozen times now, and every time it's the same half-second that gets you.
+Half a second. You've watched it back a dozen times, and it's always the same half-second that gets you.
 
 The final presentation, the one you'd rehearsed for two weeks, the one your whole grade partly rode on. You had it. You had every slide memorized. Then a question came from the side you didn't prep for, and for exactly half a second your face did something you didn't choose, something blank and lost, before you recovered and answered fine, actually, better than fine. Nobody else probably even noticed. You noticed. You keep noticing.
 

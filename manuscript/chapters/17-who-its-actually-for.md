@@ -6,7 +6,7 @@
 
 ## Scene
 
-You posted the volunteering photo before you'd even finished the shift.
+The photo went up before the shift was even over.
 
 Not a huge deal, you tell yourself, everyone documents things now. But you noticed the specific feeling in your chest while you framed the shot, angling to get the food bank sign in without your face looking sweaty, and it wasn't the same feeling as the actual work an hour later, hauling boxes, not thinking about angles at all, just tired and useful and unphotographed. The posted version got forty-one likes and a few nice comments. The actual hour of hauling boxes got nothing, no audience, no proof, and it's the hour you keep thinking about, oddly, more than the photo.
 

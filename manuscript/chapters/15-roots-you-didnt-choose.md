@@ -6,7 +6,7 @@
 
 ## Scene
 
-You're in therapy trying to figure out why you flinch every time someone raises their voice, even a little, even in a good mood, even in a movie.
+Someone raises their voice in the movie. Just a character, just acting. Your shoulders jump anyway, and you hate that they did.
 
 It took months to trace it back. Not to anything that happened directly to you, exactly, but to your dad, and the way he flinched at his own father's voice, and probably his father before him, a thread of the same nervous system reaction handed down like an heirloom nobody asked to receive. You didn't choose this reflex. You inherited it, fully installed, the way you inherited your jawline or your bad knees, except this one shapes how you show up in every relationship you'll ever have unless you actually do something about it.
 

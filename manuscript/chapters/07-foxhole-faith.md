@@ -6,7 +6,7 @@
 
 ## Scene
 
-You only pray when things are already falling apart.
+Here's an embarrassing little pattern you only just noticed about yourself.
 
 You noticed it this week, almost by accident. Your phone's screen time report showed you'd opened a meditation app four times in the last thirty days. All four times were the night before something you were dreading: a diagnosis appointment, a final exam you hadn't studied enough for, a conversation you'd been avoiding, a flight during bad weather. Not once in the calm weeks in between. Not once when things were simply fine.
 

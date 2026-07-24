@@ -6,7 +6,7 @@
 
 ## Scene
 
-You did the thing you swore you'd never do, and you've been sitting with it for three days now, unable to tell anyone.
+Three days now, and you still haven't told a single person what you did.
 
 It wasn't dramatic, not the kind of thing that makes a good story later. Just small and shameful in the specific way that these things usually are: a lie you told to avoid an uncomfortable conversation, a friend you let down when it actually mattered, a version of yourself you don't recognize and don't like. You keep waiting for the feeling to pass and it doesn't, it just sits there, low and constant, whispering that you've used up whatever good faith you had left. That you'd have to do something enormous now to earn your way back to being an okay person.
 

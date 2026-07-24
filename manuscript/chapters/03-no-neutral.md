@@ -6,7 +6,7 @@
 
 ## Scene
 
-You haven't applied anywhere in four months.
+Four months. That's how long it's been since you actually submitted anything.
 
 Not because there's nothing to apply for. Your laptop has three tabs open right now with half-finished forms in them. You just can't make yourself hit submit, because submitting means picking a direction, and picking a direction means all the other directions stop being available to you, and what if you pick wrong. So instead you keep the tabs open. You keep all your options technically alive. You tell people you're "still figuring it out," and it comes out sounding like patience instead of what it actually is, which is fear wearing patience as a disguise.
 

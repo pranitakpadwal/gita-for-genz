@@ -6,11 +6,15 @@
 
 ## Scene
 
-You didn't recognize yourself in the messages you sent your ex at 1 a.m., and that's the part that actually scared you, not the breakup itself.
+It's 1 a.m., and the person typing these messages does not feel like you. That's the part that scares you, more than the breakup itself.
 
 It started as one text. Then it was six, then it was a paragraph, then it was something cutting and precise, aimed exactly where you knew it would land hardest, because three years together teaches you exactly where someone's soft spots are. You watched yourself typing it like you were slightly outside your own hands. Some part of you knew, even mid-sentence, that this wasn't really about getting an apology anymore. It was about needing them to hurt as much as you did, right now, immediately, and some ugly, satisfied part of you wanted credit for how well-aimed it was.
 
 You sent it. Obviously you regretted it by morning. But what actually stuck with you wasn't the regret. It was how easily you'd slipped into being someone who wanted to wound, how natural it felt in the moment, how little resistance you'd put up. You'd always thought of yourself as one of the good ones. That night made you less sure.
+
+*Krishna is typing...*
+
+*"The hands are yours. So is the one watching them move. Use that one."*
 
 ---
 

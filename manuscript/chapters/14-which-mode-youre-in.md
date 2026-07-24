@@ -6,7 +6,7 @@
 
 ## Scene
 
-You've started noticing you're basically three different people depending on the week.
+Monday, you were unstoppable. By Thursday, you couldn't get off the couch. Same person, supposedly.
 
 There's the version of you that wakes up early, drinks water before coffee, actually enjoys the walk to class or work, feels clear-headed and unbothered by small annoyances. That version lasts maybe four days before it's gone.
 

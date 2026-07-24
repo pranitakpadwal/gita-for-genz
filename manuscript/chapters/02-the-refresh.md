@@ -6,7 +6,7 @@
 
 ## Scene
 
-It's 2:14 a.m. and you've refreshed the portal eleven times.
+Refresh. Nothing. Lock the phone, unlock it forty seconds later, refresh again. Eleven times now, and it's 2:14 a.m.
 
 The decision was supposed to post at midnight. It's late, which either means nothing or means everything, you can't tell anymore, you've been awake too long trying to read tea leaves in a loading spinner. Your thumb knows the motion without asking your brain. Open the tab. Refresh. Nothing. Lock the phone. Unlock it forty seconds later. Refresh again.
 
@@ -15,6 +15,10 @@ You've rehearsed both versions of tomorrow so many times they've stopped feeling
 Your roommate knocked twice already to see if you were okay. You said you were fine. You are not fine. You are a nervous system wrapped around a loading icon, and you would trade almost anything right now to just already know.
 
 You put the phone on the pillow next to your face so you'll feel it buzz. You do not sleep.
+
+*Krishna is typing...*
+
+*"You have built an entire future on top of a page that has not finished loading. Come back down."*
 
 ---
 

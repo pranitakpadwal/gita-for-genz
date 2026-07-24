@@ -6,11 +6,15 @@
 
 ## Scene
 
-You were fine, and then you were not fine, somewhere around 3 a.m., staring at the ceiling doing the math on how many people have ever lived and how many stars are in a single galaxy and how many galaxies there are, and somewhere in that math your whole chest went cold.
+3 a.m. The ceiling. The math you didn't mean to start doing: how many people have ever lived, how many stars in one galaxy, how many galaxies after that. Somewhere in the counting, your whole chest went cold.
 
 It wasn't sadness, exactly. It was scale. The sudden, physical realization of how small a single life is against how much exists, how much time there's been, how much time there'll be after you're not here to notice it anymore. You've felt an edge of this before, usually late at night, usually when you're already tired enough that your defenses are down, but this time it didn't pass in a minute. It sat on your chest. You actually had to turn the light on and look at ordinary things, your desk, your shoes by the door, a coffee mug, just to remember how to be a person at a normal size again.
 
 You didn't tell anyone the next day. It's hard to explain "I had a small existential crisis about the universe" without sounding dramatic. But you noticed something afterward: you wanted, badly, for someone familiar to just sit next to you and be normal-sized too. Not to explain the universe. Just to be human at you for a minute.
+
+*Krishna is typing...*
+
+*"The one in you who can see how small you are is not itself small."*
 
 ---
 

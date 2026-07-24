@@ -6,11 +6,13 @@
 
 ## Scene
 
-You're better at loving humanity than you are at loving the specific humans in your life, and you know it, and it bothers you more than you let on.
+"You talk a big game about compassion," your partner said, not unkindly, "and then you get short with the person actually in the room."
+
+You didn't have a comeback. It was true, and you knew it was true.
 
 You'll stay up late thinking about big, abstract things: justice, the planet, what kind of person you want to be in the world. You post about causes. You mean it, mostly. But you let your actual best friend's texts sit unanswered for four days last week because responding felt like effort, and effort felt optional in a way that your ideals never do. Loving an idea is free. It never texts you back at an inconvenient time, never needs something from you at 11 p.m., never disagrees with you about anything.
 
-Your partner said something gentle but pointed to you recently: you talk a big game about compassion, and then you get short with the actual person in the room. You didn't have a comeback for that. You've been sitting with it since, uncomfortably, because it's true, and because you're starting to suspect that loving the abstract version of things has been a way of avoiding the harder, messier, specific kind.
+You've been sitting with it since, uncomfortably, because you're starting to suspect that loving the abstract version of everything has quietly become a way of avoiding the harder, messier, specific kind.
 
 ---
 

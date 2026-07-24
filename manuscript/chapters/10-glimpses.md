@@ -6,7 +6,7 @@
 
 ## Scene
 
-You don't go to church, or a temple, or anywhere you'd call religious, and you'd probably say, if asked, that you're not really a spiritual person.
+You wouldn't call yourself spiritual. You don't go to temples. You'd say, if anyone asked, that it's just not your thing. And yet.
 
 Except last week you watched a video of a street musician playing violin in a subway station, completely unbothered by the trains, so locked into what she was doing that the whole platform went quiet around her, and something in your chest did a thing you don't have a better word for than sacred. And two nights ago you drove home under a sky that had gone that particular orange right before dark, and you actually pulled over for a minute, for no reason, just to look at it. And there's a specific three seconds in a song you've heard four hundred times where the bassline drops in and it still, every time, makes the back of your neck feel electric.
 

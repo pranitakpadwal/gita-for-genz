@@ -6,7 +6,7 @@
 
 ## Scene
 
-This is the third time you've had to start over.
+Start over. Again. Third time this year.
 
 First it was the friend group that quietly dissolved after graduation, the one you thought was permanent. Then the job you moved cities for, gone in a round of layoffs eight months in, no warning, just a calendar invite titled "quick sync" that ended your income by 5 p.m. Now it's the relationship you thought was the stable thing underneath all the other chaos, and it isn't anymore either.
 
