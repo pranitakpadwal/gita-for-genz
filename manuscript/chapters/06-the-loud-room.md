@@ -1,5 +1,7 @@
 # Fight 6: The Loud Room
 
+![](assets/illustrations/final/06-the-loud-room.png)
+
 *Dhyana Yoga, "The Yoga of Meditation" (Bhagavad Gita, Chapter 6)*
 
 ---

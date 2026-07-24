@@ -1,5 +1,7 @@
 # Fight 4: The Return
 
+![](assets/illustrations/final/04-the-return.png)
+
 *Jnana Karma Sannyasa Yoga, "The Yoga of Knowledge and Action" (Bhagavad Gita, Chapter 4)*
 
 ---

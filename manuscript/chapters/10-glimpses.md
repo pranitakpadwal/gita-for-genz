@@ -1,5 +1,7 @@
 # Fight 10: Glimpses
 
+![](assets/illustrations/final/10-glimpses.png)
+
 *Vibhuti Yoga, "The Yoga of Divine Glories" (Bhagavad Gita, Chapter 10)*
 
 ---

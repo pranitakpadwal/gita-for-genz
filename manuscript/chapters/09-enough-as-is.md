@@ -1,5 +1,7 @@
 # Fight 9: Enough, As Is
 
+![](assets/illustrations/final/09-enough-as-is.png)
+
 *Raja Vidya Raja Guhya Yoga, "The Yoga of Royal Knowledge" (Bhagavad Gita, Chapter 9)*
 
 ---

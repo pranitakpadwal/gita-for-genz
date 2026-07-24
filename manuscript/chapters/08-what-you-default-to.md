@@ -1,5 +1,7 @@
 # Fight 8: What You Default To
 
+![](assets/illustrations/final/08-what-you-default-to.png)
+
 *Akshara Brahma Yoga, "The Yoga of the Imperishable" (Bhagavad Gita, Chapter 8)*
 
 ---

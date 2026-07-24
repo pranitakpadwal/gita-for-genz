@@ -1,5 +1,7 @@
 # Fight 14: Which Mode You're In
 
+![](assets/illustrations/final/14-which-mode-youre-in.png)
+
 *Gunatraya Vibhaga Yoga, "The Yoga of the Three Gunas" (Bhagavad Gita, Chapter 14)*
 
 ---
