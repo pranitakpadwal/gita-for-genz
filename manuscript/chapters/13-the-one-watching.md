@@ -48,6 +48,8 @@ This is, essentially, the oldest and most useful reframe in every serious contem
 
 That doesn't mean the anxious thought isn't real or doesn't deserve attention. It means it isn't the whole of you, and it was never a life sentence. "I'm having an anxious thought" is a completely different, survivable, workable sentence than "I am an anxious person," even though they can feel identical at 2 a.m. The field changes constantly: your mood, your body, your circumstances, your thoughts, all of it churns and shifts and passes. The knower, whatever is doing the noticing, doesn't churn the same way. It's the stable thing underneath the weather, not one more weather pattern to be afraid of.
 
+Follow this one step further than the therapist's office usually goes. If the knower is not the thoughts, and not the mood, and not the body, all of which change constantly, then what is it, exactly? The Gita's answer is patient and a little startling: the one who watches was never born the way your name and your story were, and does not end the way they will. You don't have to believe that on faith tonight. You only have to notice, honestly, that there is something in you that has been present and aware through every version of yourself you have ever been, unchanged while everything it watched changed completely. That continuity is not nothing. It might be the most real thing about you.
+
 This is also, quietly, why naming a thought as a thought (that's a thought I'm having, not a fact about who I am) actually works as a technique, and isn't just wellness-app fluff. It's not a trick. It's accurate. You were separating the field from the knower the whole time. You just hadn't been told there was a difference.
 
 ---

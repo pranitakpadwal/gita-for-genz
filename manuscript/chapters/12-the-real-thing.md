@@ -42,6 +42,8 @@ The formless, abstract version of love, humanity in general, justice as a concep
 
 Loving the specific, textured, inconvenient person in front of you, the one who texts you at a bad time, who disagrees with your politics sometimes, who needs something from you when you don't feel like giving it, is the harder, more embodied practice, and it's the one this chapter says actually counts. Not because the big ideals don't matter. Because a person who can't be patient with their own best friend hasn't actually practiced patience yet, they've only theorized about it.
 
+Underneath the practical point is a bigger one the Gita is circling. Loving the difficult person in front of you, without keeping score, without needing it returned on schedule, slowly wears down the part of you that treats every relationship as a transaction with yourself at the center. That wearing-down is the actual work of devotion. It is not mainly about the other person. It is about what happens to a self that keeps choosing to show up for someone without asking what it gets back. Something loosens. The center of gravity shifts, a little, from you toward the space between you and them. That shift, repeated over years, is quietly one of the freest things a person can do.
+
 This isn't an argument against caring about big things. It's a diagnostic. If your compassion gets more generous the further away and more abstract its object gets, that's worth noticing. The real test was never the humanity you'll never meet. It's the person whose texts you left on read for four days.
 
 ---

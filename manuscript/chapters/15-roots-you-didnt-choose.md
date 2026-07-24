@@ -48,6 +48,8 @@ Here's what makes this chapter genuinely useful and not just poetic: it doesn't 
 
 Cutting the root doesn't mean hating your dad, or erasing the tree, or pretending the inheritance never happened. The tree still exists. The roots are still there, historically, factually, they're just not required to keep growing downward into your kids someday the same way they grew into you. You get to be the person in the line who finally picked up the axe instead of just passing the flinch along, unexamined, one more generation.
 
+There is a larger freedom hiding inside this unglamorous work. Every inherited reflex you cut is one more thing you assumed was "just who I am" turning out to be borrowed, installed, removable. Keep pulling that thread and a real question surfaces: if the flinch was not you, and the pattern was not you, and the story handed down was not you either, then what is actually underneath all of it, unconditioned, yours from the start? The Gita says something is down there, older than the inheritance and untouched by it. You don't reach it by adding more. You reach it by cutting away what was never yours, patiently, until only the unborrowed part is left standing.
+
 This is slow work, deliberately named as work, with an axe as the metaphor and not a gentle rake. Some inherited patterns don't get talked out of you. They get cut, on purpose, more than once, until the ground stops sending up the same sprout.
 
 ---

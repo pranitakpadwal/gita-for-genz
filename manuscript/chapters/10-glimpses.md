@@ -38,6 +38,8 @@ You've been calling it "not really spiritual" because you've been picturing spir
 
 This also reframes what "peak excellence" actually is. The musician locked into her playing, the athlete in true flow, the moment a piece of writing finally says exactly the thing it was trying to say, these aren't separate from anything spiritual, off in some purely secular category. They're some of the clearest places it shows up, precisely because excellence, at its peak, usually involves the performer getting out of their own way entirely. That getting-out-of-the-way is most of what this whole book has been trying to teach.
 
+There's a deeper thing hiding in those glimpses, if you want it. In the three seconds you disappear into the song, notice what actually goes quiet: the running commentary, the self-monitoring, the little manager in your head narrating you to yourself. For those seconds you are still fully there, more there than usual, but the anxious "you" that needs managing is gone. The Gita keeps pointing at exactly this. What if the part of you that vanishes in those moments was never the real one, and the awareness left behind, wide open and unafraid, is closer to what you actually are?
+
 You don't need new language for this. You don't need to start calling the sunset "God" if that word doesn't fit you. You just don't have to keep dismissing the chest-feeling as nothing, either. It was never nothing. It was a spark, showing up exactly where this chapter said to expect it.
 
 ---

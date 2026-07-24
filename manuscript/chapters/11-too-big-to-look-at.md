@@ -46,6 +46,8 @@ Here's the thing this chapter gets right about existential terror that a lot of 
 
 What actually helped Arjuna wasn't more exposure to the vastness. It was Krishna returning to a familiar, bounded, human shape and speaking to him gently, one on one, the size a relationship is actually supposed to be. That's worth remembering the next time the scale of everything gets too loud in your head at 3 a.m. You don't have to sit there gritting your teeth through the cosmic vision until you achieve some enlightened calm about your own smallness. You're allowed to turn the light on. Look at your shoes by the door. Text someone familiar. Come back down to human size on purpose.
 
+But notice, too, what exactly recoils at 3 a.m. It is the small, managed self, the one with your name and your plans and your sense of being the center of things, suddenly seeing how briefly it lasts. That fear is real and worth being gentle with. It is also worth asking, quietly: is that anxious center actually all you are? The same chapter that shows Arjuna the terrifying scale also insists something in him is never destroyed, not by time, not by death, not by the vastness. The part of you that can witness your own smallness without ending is not itself small. Sit with that one when you can bear it.
+
 The vastness doesn't stop being true just because you looked away from it. It just isn't where you're supposed to live your ordinary Tuesday. That's what the gentle, human-shaped form is for.
 
 ---

@@ -44,6 +44,8 @@ That message wasn't proof you're secretly a bad person. It was proof you walked 
 
 What actually matters isn't that you never feel the pull of these three gates again, that's not realistic, not for anyone. It's noticing, faster each time, which gate you're standing in front of before you walk all the way through it. The lust gate shows up as "I need this, right now, more than I need to think clearly." The anger gate shows up as "they deserve to feel this." The greed gate shows up as "I'm owed more than I'm getting." Naming the gate, even after the fact, even the next morning with your stomach in knots, is how you start recognizing the doorway sooner next time, before your thumbs are already moving.
 
+There is a deeper freedom on offer here than just better impulse control. Every time you notice a gate before you walk through it, you catch a glimpse of something the craving does not want you to see: the wanting is not the same as you. The anger rose, and something in you watched it rise. The craving pulled, and something in you felt the pull without being the pull. That watcher, standing a half-step back from the compulsion, is the same one this book keeps introducing you to, chapter after chapter. The gates never fully stop appearing. But the more you see them as gates rather than as yourself, the less they own you, and the freer the one watching them becomes.
+
 You're not the message you sent at 1 a.m. You're the person capable of noticing, the morning after, which gate you walked through, and that noticing is the actual work, not a permanent character reference against you.
 
 ---

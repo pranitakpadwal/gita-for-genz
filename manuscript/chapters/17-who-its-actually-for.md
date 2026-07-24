@@ -42,6 +42,8 @@ The uncomfortable question this chapter is actually asking isn't "did you do the
 
 This doesn't mean never post the photo, or that documenting things is inherently hollow. It means noticing which parts of what you do would still happen if nobody ever saw them. The hour of hauling boxes would have happened with or without the photo. That's the sattvic part, unattached to being witnessed. The extra ninety seconds spent angling the shot to avoid looking sweaty, that's worth being honest about too, not as a moral failure, just as information about which gate you were standing in, in that specific moment.
 
+What the chapter is really circling, underneath the honesty about photos and credit, is a question about the self that needs to be seen. Why does so much of what you do quietly angle for a witness? Because the constructed self stays alive on attention the way a fire stays alive on air. Action done cleanly, with no audience required, starves that self a little, and something steadier is left doing the work. This is not about becoming secretly virtuous. It is about noticing how much of your energy goes into being perceived, and discovering, slowly, that the parts of your life nobody claps for are often the parts where you are most free.
+
 You don't have to purify every action into perfect, unwitnessed sincerity before it counts. Almost nobody manages that consistently. You just have to keep asking the question, honestly, often enough that the performed part doesn't quietly take over the whole hour.
 
 ---

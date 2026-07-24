@@ -50,6 +50,8 @@ The point was never to become a person who lives permanently in sattva and never
 
 The wired, grindy rajas days aren't secretly the good days either, even though hustle culture will tell you otherwise. They burn out into a crash for a reason: they were never sustainable, they were just fast. And the calm sattva days aren't a permanent destination you failed to stay in. They're a mode, same as the other two, worth noticing and enjoying without gripping so tight that its inevitable departure feels like a personal failure.
 
+And here is the turn the chapter is quietly building toward. If you can watch the heavy day, the wired day, and the clear day all pass across you, then you are not, finally, any of them. You are whatever it is that stays put while all three weathers move through. The gunas are real, and they run most of what you feel on any given day. But the one noticing which guna is in charge right now is standing, for that moment, slightly outside their reach. That small gap between you and your own mood is not a trick of language. It is the first real taste of the freedom the whole second half of this book keeps pointing at.
+
 You're not three different people. You're one person, cycling through three familiar weathers, slowly learning to watch the sky instead of becoming whatever cloud happens to be passing through it.
 
 ---
