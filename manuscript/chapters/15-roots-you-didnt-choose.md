@@ -55,3 +55,9 @@ This is slow work, deliberately named as work, with an axe as the metaphor and n
 ## Takeaway
 
 **Not every inherited root deserves to be honored just because it's old.** Some are handed down specifically so someone, eventually, cuts them. You don't owe your nervous system's inheritance a permanent home in your own life, and you definitely don't owe it to the next generation either.
+
+---
+
+## Krishna Texts Back
+
+> You inherited the flinch. You did not choose it. It was handed down through people who needed it once, for reasons that were real in their time and are gone in yours. Here is what I told Arjuna about the ancient tree with its roots above: some roots are not meant to be honored simply because they are old. Some are handed down so that someone, one day, finally takes up the axe. Cutting the root is not hatred for the ones who passed it to you. They did not choose theirs either. It is only that the pattern does not have to keep growing downward into the ones who come after you. You can be the one who ends it. That, too, is love.

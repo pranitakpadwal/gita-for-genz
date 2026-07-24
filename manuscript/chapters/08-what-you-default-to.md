@@ -51,3 +51,9 @@ You're not stuck with the default you happened to notice on camera. You're just 
 ## Takeaway
 
 **What surfaces in the half-second before your training kicks in isn't your worst self exposed. It's your most-practiced self, showing its work.** Change what you practice in the small, unwatched moments, and eventually that's the groove that shows up when it counts.
+
+---
+
+## Krishna Texts Back
+
+> You keep replaying the half-second your face went blank, as if it exposed the real you. It did not expose you. It revealed what you have been practicing. Whatever your mind rehearses in the small, unwatched moments is what surfaces when there is no time left to perform. This is not a life sentence. It is a training plan. Every time you choose to breathe instead of spiral over something small, you wear a slightly different groove for next time. The blank half-second does not need to vanish. What surfaces inside it just needs to be a little steadier, and that is built quietly, long before the moment that tests it. Practice the small things. They were never small.

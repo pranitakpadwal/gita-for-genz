@@ -57,3 +57,9 @@ The mind being loud isn't proof you're bad at this. It's proof you have a mind. 
 ## Takeaway
 
 **The mind wandering isn't the session failing. It's the rep.** Every attempt counts even when the streak doesn't survive, and nobody who sincerely tried this is ever actually starting from zero again.
+
+---
+
+## Krishna Texts Back
+
+> You thought a quiet mind was the price of entry, and yours will not go quiet, so you quit. Listen. Even Arjuna called the mind restless, stubborn, harder to hold than the wind, and I did not disagree with him. The mind wandering is not you failing. It is the exercise itself. You notice, you return. You notice, you return. That returning is the whole of it. No day of practice is ever wasted, not the five days before you stopped, not the attempt before that one. Nothing sincere is ever lost. You are never starting from zero, however many times it feels that way. Sit down again. Not to silence the room. Just to keep coming back to it.

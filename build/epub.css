@@ -63,7 +63,10 @@ blockquote {
   margin: 1.5em 0;
 }
 
-blockquote p:first-child {
+/* Verse quotes carry a bold label first line ("BG x.xx", a <strong>).
+   Guard the label styling so it never touches Krishna's reply, whose
+   first line is plain prose. */
+blockquote p:first-child:has(strong) {
   font-weight: bold;
   color: #a8471f;
   text-transform: uppercase;
@@ -73,6 +76,16 @@ blockquote p:first-child {
 }
 
 blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Krishna's reply sits directly after its heading, unlike any verse
+   quote. Give it a quieter, italic chat-reply feel. */
+h2 + blockquote {
+  font-style: italic;
+}
+
+h2 + blockquote p {
   margin-bottom: 0;
 }
 

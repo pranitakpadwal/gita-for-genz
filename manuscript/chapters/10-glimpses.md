@@ -45,3 +45,9 @@ You don't need new language for this. You don't need to start calling the sunset
 ## Takeaway
 
 **You don't have to find the sacred somewhere unfamiliar. It's already in the three best seconds of your favorite song, and you've been collecting glimpses of it your whole life without a name for what you were doing.** That's not nothing. That's the spark this whole chapter is pointing at.
+
+---
+
+## Krishna Texts Back
+
+> You have felt it, in the best three seconds of a song, in a sky that stopped you on the road, and you did not give yourself permission to call it what it was. Call it now. Whatever is radiant, whatever is beautiful, whatever holds real power, is a spark of the same thing, and you are not standing outside it. You have been collecting these glimpses your whole life without a name for them. They were never far off in some distant heaven. They were the sacred looking back at itself for a moment through your eyes. You do not have to travel anywhere. You only have to stop dismissing the moments where it already reaches you. Notice the next one. That noticing is where everything begins.

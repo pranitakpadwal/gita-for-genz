@@ -47,3 +47,9 @@ You don't need to earn your way back with an epic gesture. You need to turn arou
 ## Takeaway
 
 **The size of the offering was never the price of being accepted back. The sincerity was.** A short, honest apology, actually meant, is worth more than the elaborate one you keep drafting and never sending.
+
+---
+
+## Krishna Texts Back
+
+> You are drafting an apology large enough to cover the size of what you did. Stop. I have said this plainly. Offer me a leaf, a flower, a little water, given honestly, and I receive it fully. The size was never the price. Even someone who has done the worst things, the moment they truly turn around, is already on the way back. Not after enough suffering. At the turn itself. The short, true apology you are afraid is not enough is the leaf. It is the whole currency. The grand gesture you keep failing to write is often just a more comfortable way to delay the plain one. Turn around. Say the true thing. It is already enough.

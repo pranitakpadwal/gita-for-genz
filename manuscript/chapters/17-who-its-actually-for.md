@@ -49,3 +49,9 @@ You don't have to purify every action into perfect, unwitnessed sincerity before
 ## Takeaway
 
 **The same good act can be sattvic, rajasic, or tamasic depending entirely on what's happening underneath it, invisible to anyone watching.** Ask yourself, honestly, which parts of what you do would still happen if nobody ever saw them. That's usually the real answer to who it was actually for.
+
+---
+
+## Krishna Texts Back
+
+> You framed the photograph before the work was even finished, and something in you already knew. Here is the quiet truth: the same good act can be pure, or restless, or hollow, depending entirely on what moves underneath it, and no one watching can see which. The hour of real work would have happened with or without the photograph. That part was clean. The ninety seconds spent angling the shot, that is worth being honest about, not as a crime, only as information. Ask yourself, gently and often: which parts of what I do would still happen if no one ever saw them? You do not need to purify every act before it counts. You only need to keep asking, so the performing never quietly eats the whole thing.

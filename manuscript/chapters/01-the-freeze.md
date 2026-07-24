@@ -75,3 +75,9 @@ Maybe you've been exactly here. Known precisely what the right move was and stil
 ## Takeaway
 
 **The Gita doesn't open with a warrior winning a fight. It opens with one who can't even lift his bow, and it calls that the start of wisdom, not a delay of it.** You're allowed to freeze. You're allowed to sit back down. Chapter one of your story can start exactly here too.
+
+---
+
+## Krishna Texts Back
+
+> You think the freeze means something is wrong with you. It doesn't. Arjuna sat down in his chariot in front of two armies, and I did not rush him. I let him speak until he had nothing left to say. The freeze is not the enemy of action. It is where honest action begins, once the pretending stops. You are not weak for going still in front of a choice that costs you people you love. You are awake to what it costs. Stay there as long as you need to. When you are ready, and only then, we begin. I am not going anywhere. Neither, it turns out, are you.

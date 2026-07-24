@@ -55,3 +55,9 @@ This is also, quietly, why naming a thought as a thought (that's a thought I'm h
 ## Takeaway
 
 **You are not the anxious thought. You are the one who noticed it happening.** The field, your body, your mood, your spiraling 2 a.m. thoughts, keeps changing. The knower underneath it doesn't. That gap is real, and it's the only room you actually need.
+
+---
+
+## Krishna Texts Back
+
+> You said, I am an anxious person, as if it were carved into you. But someone noticed that thought. Find that one. There is the field, everything that can be observed, your body, your moods, your spiraling mind. And there is the one who watches the field. You are not the anxious thought passing through. You are the awareness it passes through. The weather changes constantly. The sky it moves across does not. This is not a trick to make you feel better. It is simply true, and it was true long before anyone handed you the words for it. When the storm comes again, and it will, remember which one you are. You are not the storm. You are what the storm is happening inside of.

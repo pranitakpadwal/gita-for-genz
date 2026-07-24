@@ -51,3 +51,9 @@ None of this means don't ever leave a bad situation. Sometimes the job actually 
 ## Takeaway
 
 **Running away doesn't loosen your grip. It just gives your grip a new place to live.** Same job, same deadlines, same difficult people, held a little looser, beats a different life gripped exactly as hard as this one.
+
+---
+
+## Krishna Texts Back
+
+> You want to fly somewhere far and become lighter. But the grip you are trying to escape is not in the city. It is in your hand. The lotus leaf rests on the water all day and never once soaks it in. It does not leave the pond to stay dry. It simply stops absorbing. You can do the same work, meet the same difficult people, carry the same deadlines, and hold all of it looser. That is the freedom you keep booking flights toward. It was never waiting at the destination. It was in how tightly your fingers were closed. Open them, slowly. You may find you did not need to go anywhere at all.

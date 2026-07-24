@@ -109,7 +109,10 @@ body {
   line-height: 1.6;
 }
 
-.prose-chapter blockquote p:first-child {
+/* Only verse quotes carry a bold label as their first line (the <strong>
+   "BG x.xx"). Guard the label styling so it never hits Krishna's reply,
+   whose first line is plain prose. */
+.prose-chapter blockquote p:first-child:has(strong) {
   font-family: var(--font-fraunces), Georgia, serif;
   font-weight: 600;
   color: var(--accent);
@@ -119,10 +122,25 @@ body {
   margin-bottom: 0.85rem;
 }
 
-.prose-chapter blockquote p:last-child {
+.prose-chapter blockquote p:first-child:has(strong) + p {
   margin-top: 0.85rem;
-  margin-bottom: 0;
   font-size: 1.0625rem;
   color: var(--foreground);
+}
+
+/* Krishna's reply sits directly after the "Krishna Texts Back" heading,
+   which no other section's blockquote does. Give it its own quieter,
+   chat-reply feel: italic serif, no uppercase label, softer tone. */
+.prose-chapter h2 + blockquote {
+  background: transparent;
+  border-left: 3px solid var(--accent);
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--foreground);
+}
+
+.prose-chapter h2 + blockquote p {
+  font-size: 1.05rem;
+  margin-bottom: 0;
 }
 

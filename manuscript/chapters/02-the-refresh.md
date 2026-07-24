@@ -65,3 +65,9 @@ And it doesn't mean you stop hoping for the outcome you want. It means the hopin
 ## Takeaway
 
 **You have a right to the work. You never had a right to the outcome, and you were never actually going to get one, no matter how many times you refreshed the page.** Do the work like it's everything. Let the result go like it was never yours to hold onto in the first place.
+
+---
+
+## Krishna Texts Back
+
+> You keep reaching for the result as if holding it tighter will make it yours. It was never yours to hold. The work is yours. The hours, the care, the effort, all yours. What grows from it belongs to a hundred things you will never control. This is not me asking you to care less. I am asking you to put the caring where it can actually do something. Pour everything into the doing. Then set the outcome down, gently, the way you would set down something that was only ever passing through your hands. Refresh the page one last time if you must. Then close it, and go live the part that is actually yours.

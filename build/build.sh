@@ -54,6 +54,7 @@ sed \
   -e 's|^## Shloka$|## ![](assets/illustrations/icons/shloka.svg){width=18px} Shloka|' \
   -e 's|^## Real Talk$|## ![](assets/illustrations/icons/why-it-lands.svg){width=18px} Real Talk|' \
   -e 's|^## Takeaway$|## ![](assets/illustrations/icons/takeaway.svg){width=18px} Takeaway|' \
+  -e 's|^## Krishna Texts Back$|## ![](assets/illustrations/icons/krishna.svg){width=18px} Krishna Texts Back|' \
   "$COMBINED" > "$COMBINED_ICONS"
 
 pandoc "$COMBINED" \

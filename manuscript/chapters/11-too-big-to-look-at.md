@@ -53,3 +53,9 @@ The vastness doesn't stop being true just because you looked away from it. It ju
 ## Takeaway
 
 **Even Arjuna, face to face with the literal universe, begged to see the smaller, gentler, human form again, and Krishna gave it to him without hesitation.** You're allowed to look away from the scale of everything and come back down to something familiar and human-sized. That isn't avoidance. It's where you're actually supposed to live.
+
+---
+
+## Krishna Texts Back
+
+> You saw the scale of everything at three in the morning and it went cold in your chest. Good. That means you saw truly. But hear me. Even Arjuna, standing beside the whole universe, trembled and begged to see my ordinary face again, and I gave it to him at once, without a word of shame. The vastness is real. It does not stop being real when you look away from it. But it is not where you were meant to live your Tuesday. You are allowed to come back down to something human-sized. A familiar face. Your own hands. That is not avoidance. It is where a life is actually lived. Look at the stars when you can bear them. Then come home.

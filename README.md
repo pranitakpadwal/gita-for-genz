@@ -41,7 +41,14 @@ Same teaching. Less gyaan, more "oh, this is literally me right now."
      that compresses Real Talk into something screenshot-able. It's
      meant to overlap with Real Talk on purpose — this is the retention
      line for skimmers, not new content.
-  The 4-part shape stays consistent across all 18 chapters; only the
+  5. *Krishna Texts Back* — the signature closing beat, added in the v2
+     editorial pass. A short (~110-130 word) direct message from Krishna
+     to the reader, in his own timeless, calm voice (deliberately NOT
+     motivational-influencer speak), echoing that chapter's teaching as
+     if he were texting back. Reinforces the title and gives each fight a
+     distinct final note. Rendered as an italic reply block with the
+     conch (shankha) icon, visually distinct from the verse quotes.
+  The 5-part shape stays consistent across all 18 chapters; only the
   length of Shloka and Real Talk flexes to match how much the source
   chapter is actually carrying.
 - **Graphics**: one chapter-opener illustration per chapter (title-page

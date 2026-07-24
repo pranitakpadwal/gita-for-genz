@@ -45,3 +45,9 @@ You don't have to feel fraudulent about needing the fire extinguisher. You just 
 ## Takeaway
 
 **Coming to something only when it's an emergency doesn't make you a fraud. It makes you exactly the person this chapter names first, not last.** The door doesn't care why you opened it the first ten times. It just gets easier to open the eleventh, on an ordinary day, for no emergency at all.
+
+---
+
+## Krishna Texts Back
+
+> You feel like a fraud for only coming to me when you are afraid. Let me tell you something. Of everyone who turns toward me, I named the frightened one first, not last. Not as the lesser door. As a real one. You are not pretending when you show up scared. You are showing up, and that counts. The only thing I would add is this: the door you keep using in emergencies gets easier to open the more you use it. One day you may reach for it on an ordinary afternoon, for no reason at all, and that will not be because you became holy. It will be because you kept coming back. So keep coming back.

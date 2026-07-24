@@ -49,3 +49,9 @@ This isn't an argument against caring about big things. It's a diagnostic. If yo
 ## Takeaway
 
 **Loving an idea is free. It never texts back at an inconvenient time. Loving the specific, difficult, actual person in front of you is the harder practice, and it's the one that was always the real one.** Your compassion for the world is only as real as your patience with the person closest to you.
+
+---
+
+## Krishna Texts Back
+
+> You love the whole world easily. It never asks anything of you at an inconvenient hour. The person in front of you is harder. They disagree, they need things, they text at the wrong time. And that person is the real test, not the distant humanity you will never meet. I did not ask you to master the formless first. I said it is harder for anyone still living in a body, and you are still living in one. So start where you are. Be patient with the one closest to you before you are proud of your compassion for strangers. Your love for the world is only ever as real as your kindness to the person you keep leaving on read. Answer them. That is the practice.

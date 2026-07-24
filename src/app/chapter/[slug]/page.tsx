@@ -13,6 +13,7 @@ const SECTION_ICONS: Record<string, string> = {
   Shloka: "/icons/shloka.svg",
   "Real Talk": "/icons/why-it-lands.svg",
   Takeaway: "/icons/takeaway.svg",
+  "Krishna Texts Back": "/icons/krishna.svg",
 };
 
 function renderChapterHtml(markdown: string): string {

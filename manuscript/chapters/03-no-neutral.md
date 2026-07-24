@@ -53,3 +53,9 @@ Krishna's answer isn't "pick the perfect thing." It's closer to: pick your thing
 ## Takeaway
 
 **There's no neutral. Staying still is still a choice, and it's usually the most expensive one on the table.** Pick the thing that's actually yours, even if you do it badly at first. Standing in the parking lot with the engine running was never as safe as it felt.
+
+---
+
+## Krishna Texts Back
+
+> You told yourself that not choosing kept every door open. Look closer. Every day you stand in the doorway, the house behind you decides things without you. Standing still is not neutral. It is a choice wearing the costume of patience. I would rather you walk your own path badly than perform someone else's perfectly, and far rather that than watch you freeze in the hallway calling it wisdom. Pick the thing that is truly yours. You will do it clumsily at first. Everyone does. But a clumsy step in your own direction is worth more than a graceful stillness that carries you nowhere. The engine has been running this whole time. Drive.

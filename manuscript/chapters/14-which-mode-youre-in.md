@@ -57,3 +57,9 @@ You're not three different people. You're one person, cycling through three fami
 ## Takeaway
 
 **You're not lazy on the heavy days or virtuous on the clear ones. You're cycling through three real, nameable modes, the same three everyone cycles through.** The work isn't picking your favorite one and staying there forever. It's learning to notice which one you're in without becoming it completely.
+
+---
+
+## Krishna Texts Back
+
+> You think you are three different people, and you are ashamed of the heavy days. You are not three people. You are one, moving through three weathers that move through everyone alive. The clear mornings, the restless grind, the heavy fog, all three pass. None of them is the real you, and none of them is a verdict. Even the calm you love is not a place to grip and stay inside forever. The work is not to choose your favorite weather and live there. It cannot be done. The work is quieter than that: to notice which one you are in while you are in it, and not mistake the passing cloud for the sky. Watch the weather. Do not become it.

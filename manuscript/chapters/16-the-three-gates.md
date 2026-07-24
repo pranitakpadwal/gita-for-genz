@@ -51,3 +51,9 @@ You're not the message you sent at 1 a.m. You're the person capable of noticing,
 ## Takeaway
 
 **Lust, anger, and greed aren't who you are. They're gates, and anyone can walk through one on a bad enough night.** The work isn't never feeling their pull again. It's recognizing the doorway a little faster each time, before your thumbs are already moving.
+
+---
+
+## Krishna Texts Back
+
+> You sent the message at one in the morning and did not recognize your own hands. I know. There are three gates that open onto ruin: craving, anger, and greed. You walked through the second one, wide open, for eleven minutes. That does not make you the gate. Anyone can walk through one on a bad enough night, and decent people do, and wake up sick about it. I am not asking you to never feel the pull again. That is not possible for anyone alive. I am asking you to recognize the doorway a little sooner each time, before your thumbs are already moving. You are not the worst thing you did at one a.m. You are the one who noticed, by morning, which gate you walked through.

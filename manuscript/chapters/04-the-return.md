@@ -55,3 +55,9 @@ This is also, quietly, what it means to take your own history seriously instead 
 ## Takeaway
 
 **Renewal isn't the exception to a stable life. It's the actual mechanism of one.** You don't get to arrive somewhere solid and stay there forever. You get to become someone who knows how to rebuild, a little better, a little faster, every single time the studs show again.
+
+---
+
+## Krishna Texts Back
+
+> You are tired of starting over. I understand this better than you know. I return in every age, again and again, whenever things fall apart enough to need it. Not because the falling apart is a failure, but because renewal is simply how anything alive keeps going. You thought you would arrive somewhere solid and stay. Nothing that breathes gets to do that. What you get instead is better than permanence. You get to become someone who has rebuilt before and knows the way back. The studs showing again is not proof you are cursed. It is the third time, which means you are faster now than you were the first. Begin again. You already know how.

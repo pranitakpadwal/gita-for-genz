@@ -63,3 +63,9 @@ This is also, probably, not the last time you'll freeze. The Gita doesn't promis
 ## Takeaway
 
 **Nothing about the fear disappearing was ever the deal. Doing the true thing anyway, with the fear still sitting right there next to you, was always the actual deal.** You froze in chapter one, and that was honest. You don't have to stay there. Your thumb can still come down.
+
+---
+
+## Krishna Texts Back
+
+> You are back at the same message you froze over in the beginning. Nothing about it got safer. You could still lose the friend. The cost is exactly what it was. Only one thing has changed, and it is the only thing that ever needed to. You have stopped waiting for the fear to leave before you act. It was never going to leave first. I did not promise Arjuna an easier war. I gave him a steadier warrior to walk into it. He said, my confusion is gone, and he stood up. He did not say the fear was gone. He said the doubt was, and that was enough. The battle is still there in the morning. So are you. Your thumb can come down now.
