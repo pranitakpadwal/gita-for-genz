@@ -10,6 +10,7 @@ import zipfile
 import shutil
 
 TAGLINE = "A Gita for Gen Z"
+POWER_LINE = "Timeless wisdom. Modern battles. A conversation that changes you."
 
 
 def patch_epub(path):
@@ -27,6 +28,10 @@ def patch_epub(path):
                         '<h1 class="title">',
                         f'<p class="tagline">{TAGLINE}</p>\n  <h1 class="title">',
                     )
+                    text = text.replace(
+                        '<p class="author">',
+                        f'<p class="power-line">{POWER_LINE}</p>\n  <p class="author">',
+                    )
                     data = text.encode("utf-8")
                 if item.filename == nav_name:
                     # Without --toc, pandoc places nav.xhtml at the EPUB
@@ -43,34 +48,47 @@ def patch_epub(path):
     print(f"Tagline added + nav.xhtml media paths fixed -> {path}")
 
 
-def patch_docx(path):
-    from docx import Document
+def _insert_styled_paragraph(doc, anchor_p, text, before=True, italic=True, size_factor=0.7):
     import copy
     from docx.text.paragraph import Paragraph
+
+    new_p_elem = copy.deepcopy(anchor_p._p)
+    if before:
+        anchor_p._p.addprevious(new_p_elem)
+    else:
+        anchor_p._p.addnext(new_p_elem)
+
+    new_p = Paragraph(new_p_elem, anchor_p._parent)
+    new_p.style = doc.styles["Subtitle"]
+    for run in list(new_p.runs):
+        run.text = ""
+    if new_p.runs:
+        new_p.runs[0].text = text
+    else:
+        new_p.add_run(text)
+    for run in new_p.runs:
+        run.italic = italic
+        if run.font.size:
+            run.font.size = int(run.font.size * size_factor)
+    return new_p
+
+
+def patch_docx(path):
+    from docx import Document
 
     doc = Document(path)
     title_idx = next(
         i for i, p in enumerate(doc.paragraphs) if p.style and p.style.name == "Title"
     )
-    title_p = doc.paragraphs[title_idx]
-    new_p_elem = copy.deepcopy(title_p._p)
-    title_p._p.addprevious(new_p_elem)
+    _insert_styled_paragraph(doc, doc.paragraphs[title_idx], TAGLINE, before=True)
 
-    new_p = Paragraph(new_p_elem, title_p._parent)
-    new_p.style = doc.styles["Subtitle"]
-    for run in list(new_p.runs):
-        run.text = ""
-    if new_p.runs:
-        new_p.runs[0].text = TAGLINE
-    else:
-        new_p.add_run(TAGLINE)
-    for run in new_p.runs:
-        run.italic = True
-        if run.font.size:
-            run.font.size = int(run.font.size * 0.7)
+    author_idx = next(
+        i for i, p in enumerate(doc.paragraphs) if p.style and p.style.name == "Author"
+    )
+    _insert_styled_paragraph(doc, doc.paragraphs[author_idx], POWER_LINE, before=True, size_factor=0.75)
 
     doc.save(path)
-    print(f"Tagline added to docx title page -> {path}")
+    print(f"Tagline + power line added to docx title page -> {path}")
 
 
 if __name__ == "__main__":

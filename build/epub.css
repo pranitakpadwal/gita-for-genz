@@ -218,7 +218,16 @@ section.titlepage p.subtitle {
   text-align: center;
   font-size: 1.15em;
   font-style: italic;
-  margin-bottom: 2.5em;
+  margin-bottom: 1.6em;
+}
+
+section.titlepage p.power-line {
+  text-align: center;
+  font-size: 0.85em;
+  font-style: italic;
+  color: #6b6b6b;
+  letter-spacing: 0.02em;
+  margin: 0 1.5em 2.5em 1.5em;
 }
 
 section.titlepage p.author {
