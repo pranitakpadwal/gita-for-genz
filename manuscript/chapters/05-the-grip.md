@@ -16,6 +16,12 @@ You won't book it. You know you won't, the same way you knew the last two times.
 
 Your coworker, the one who seems annoyingly fine all the time, has the exact same job as you. Same deadlines. Same difficult clients. She just doesn't carry it out the door with her at 6 p.m. the way you do. You've started to suspect that's the actual skill you're missing, not a different life, just a different way of holding the one you've got.
 
+**This shows up as:**
+
+- Switching majors three times, convinced the next one won't feel this stressful, and it always does by week three
+- Deleting social media for a "detox" and reinstalling it four days later with the same anxious scrolling habit intact
+- Moving to a new city to start fresh and quietly recreating the exact same overworking, same isolation, within a month
+
 ---
 
 ## Shloka
@@ -29,6 +35,12 @@ Krishna's answer: both lead to the same place. But of the two, acting in the wor
 > One who acts without attachment, offering the results rather than clinging to them, is untouched by what happens, the way a lotus leaf sits on water without the water soaking in.
 
 The lotus leaf image is doing real work here. It's not describing someone who's floating above their life, detached in the checked-out sense. It's describing something in contact with the water constantly, fully in it, that has simply stopped absorbing it. Same job. Same deadlines. Same difficult clients. Different grip.
+
+::: {.pullquote}
+> "Like a lotus leaf on water, untouched by what happens, though never once leaving the pond."
+>
+> · BG 5.10
+:::
 
 Later Krishna describes the sage who has this figured out as someone with equal vision: a learned scholar, a cow, an elephant, a dog, and someone society looks down on are all seen the same way by someone who's actually gotten this right (5.18). Not because the differences don't exist. Because the seeing has stopped being run by rank and comparison.
 

@@ -14,6 +14,12 @@ Except last week you watched a video of a street musician playing violin in a su
 
 You've never once called any of this God. You wouldn't know where to file it. But you notice you're collecting these moments, quietly, the way some people collect stamps, and you notice you feel more like yourself in the three seconds of that bassline than you do most of the rest of an ordinary Tuesday.
 
+**This shows up as:**
+
+- Getting chills at the exact same three seconds of a song, every single time, no matter how many times you've heard it
+- Stopping mid-scroll because a stranger's photo of an ordinary sunset somehow makes your chest ache
+- Watching someone completely absorbed in what they're good at, a chef, a dancer, a coder in flow, and feeling something close to reverence you can't quite name
+
 ---
 
 ## Shloka
@@ -31,6 +37,12 @@ It reads almost like a poem with no ending, because it isn't really trying to be
 > Whatever you see that is glorious, beautiful, or full of energy, know that it comes from just a spark of my brilliance.
 
 A spark. Not the whole thing, contained. Just enough of it leaking through to make a subway platform go quiet, or a sky worth pulling the car over for.
+
+::: {.pullquote}
+> "Whatever is glorious, beautiful, or full of energy comes from just a spark of my brilliance."
+>
+> · BG 10.41
+:::
 
 ---
 

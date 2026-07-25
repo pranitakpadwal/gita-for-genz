@@ -16,6 +16,12 @@ You sat there for a second, actually stumped. Because there was, obviously, some
 
 It didn't fix anything that night. But it cracked something open. A tiny bit of distance appeared between you and the spiral, for the first time in years, and it felt like air getting into a room that had been sealed shut.
 
+**This shows up as:**
+
+- Spiraling into "I'm just an anxious person" instead of noticing "I'm having an anxious thought right now"
+- Watching yourself get triggered by a comment, and a beat later, noticing that you're watching yourself get triggered
+- Catching yourself mid-doomscroll and realizing some part of you clocked it before you consciously decided to stop
+
 ---
 
 ## Shloka
@@ -41,6 +47,12 @@ And then, the point this whole chapter is building toward:
 > One who sees that all actions are performed by nature alone, and that the self is not the doer, actually sees.
 
 Not the doer. Not the thinker. The thoughts happen, the anxious spiral happens, the way weather happens, produced by causes and conditions, gunas and circumstance and old patterns. The self, the knower, the awareness underneath it all, was never the author of the storm. It was always just the sky the storm was passing through.
+
+::: {.pullquote}
+> "One who sees that the self is not the doer actually sees."
+>
+> · BG 13.29
+:::
 
 ---
 

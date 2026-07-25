@@ -20,6 +20,12 @@ So you don't send it. You don't close the app either. You just sit there, thumb 
 
 You put the phone face-down. You put your head in your hands.
 
+**This shows up as:**
+
+- Not telling your parents you want to switch majors, because watching their face fall feels worse than staying miserable in the right one for them
+- Sitting on a "we need to talk" text for four days, because once it's sent, you can't unsend the conversation that follows it
+- Staying quiet in the group project that's going badly, because speaking up means confronting a friend, not a stranger
+
 ---
 
 ## Shloka
@@ -55,6 +61,12 @@ Then, mid-battlefield, in front of both armies:
 Krishna says nothing. He doesn't argue back. Doesn't reach for the reins. Doesn't fill the silence just to fill it. He lets Arjuna finish everything first, every argument, every shaking breath, before he responds at all.
 
 That's the whole first chapter. No wisdom. No answers. One of the most famous books ever written about how to act in the world opens with its hero frozen solid and its teacher saying absolutely nothing.
+
+::: {.pullquote}
+> "Arjuna sank down onto the seat of his chariot. He let go of his bow and arrows. His mind had given way to grief."
+>
+> · BG 1.47
+:::
 
 ---
 

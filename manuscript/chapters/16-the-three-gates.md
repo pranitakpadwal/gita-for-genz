@@ -18,6 +18,12 @@ You sent it. Obviously you regretted it by morning. But what actually stuck with
 
 *"The hands are yours. So is the one watching them move. Use that one."*
 
+**This shows up as:**
+
+- Sending a cutting text at 1 a.m. that you know will land exactly where it hurts most, then regretting it by morning
+- Buying something you can't afford because "you deserve it" after a bad day, then feeling worse once the high wears off
+- Snapping at a friend over something small because you're actually jealous of something going right in their life
+
 ---
 
 ## Shloka
@@ -39,6 +45,12 @@ Then Krishna names the actual mechanism underneath the demonic list, the engine 
 > There are three gates leading to self-destruction: lust, anger, and greed. Every wise person should abandon these three.
 
 Not three separate character flaws. Three gates, doorways, entry points that anyone can walk through regardless of who they normally are. Lust here means more than desire in the narrow sense, it's the gripping, insatiable craving for anything, validation, a reaction, revenge, that convinces you satisfying it right now matters more than anything else. Anger is the flash that wants someone else to hurt. Greed is the sense that you're owed more than you have, entitled to take what isn't freely given.
+
+::: {.pullquote}
+> "Three gates lead to self-destruction: lust, anger, and greed. Abandon these three."
+>
+> · BG 16.21
+:::
 
 The chapter doesn't treat these as identities. It treats them as gates. You don't become a demonic person once and stay that way forever. You walk through one of these three gates, sometimes for a single 1 a.m. text message, and you can just as easily walk back out.
 

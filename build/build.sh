@@ -76,7 +76,6 @@ pandoc "$COMBINED" \
   --metadata title="$BOOK_TITLE" \
   --metadata subtitle="$BOOK_SUBTITLE" \
   --metadata author="$BOOK_AUTHOR" \
-  --toc --toc-depth=1 \
   -o "$OUT_DIR/krishna-texts-back.docx"
 
 python3 "$ROOT_DIR/build/scripts/add-tagline.py" docx "$OUT_DIR/krishna-texts-back.docx"
@@ -91,7 +90,6 @@ pandoc "$COMBINED_ICONS" \
   --metadata subtitle="$BOOK_SUBTITLE" \
   --metadata author="$BOOK_AUTHOR" \
   --epub-cover-image="$ROOT_DIR/assets/cover/cover.png" \
-  --toc --toc-depth=1 \
   -o "$OUT_DIR/krishna-texts-back.epub"
 
 python3 "$ROOT_DIR/build/scripts/add-tagline.py" epub "$OUT_DIR/krishna-texts-back.epub"

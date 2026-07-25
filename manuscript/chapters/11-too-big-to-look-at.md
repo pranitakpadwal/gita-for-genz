@@ -18,6 +18,12 @@ You didn't tell anyone the next day. It's hard to explain "I had a small existen
 
 *"The one in you who can see how small you are is not itself small."*
 
+**This shows up as:**
+
+- Spiraling into a 2 a.m. panic about how insignificant your life is in the scope of the universe, and needing to text someone just to feel normal-sized again
+- Reading about the scale of the universe, or how the sun will eventually die, and needing to physically touch something ordinary to calm back down
+- Feeling suddenly unmoored during a big life transition, graduation, a death, a diagnosis, and craving nothing but a familiar, boring conversation with someone you love
+
 ---
 
 ## Shloka
@@ -43,6 +49,12 @@ Arjuna's reaction isn't awe that resolves into peace. It's terror.
 > I am thrilled, but my mind trembles with fear. Show me grace. Show me your gentler form again. I want to see you as you were, the same friend I already knew.
 
 And Krishna does. He returns to his ordinary, human, comforting shape, and speaks gently, and the terror recedes (11.49–51). The cosmic form was real. It wasn't a lie. But it also wasn't where Krishna asked Arjuna to actually live. He asked him to come back down.
+
+::: {.pullquote}
+> "Show me your gentler form again. I want to see you as I already knew you."
+>
+> · BG 11.45
+:::
 
 ---
 

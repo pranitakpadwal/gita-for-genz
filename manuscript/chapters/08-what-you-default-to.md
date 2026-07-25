@@ -16,6 +16,12 @@ What scares you isn't that you got a hard question. It's what your body did befo
 
 You don't have an answer. You just keep replaying the half-second, like it's evidence in a case against yourself that nobody else is even prosecuting.
 
+**This shows up as:**
+
+- Snapping at your little sibling the second you're stressed, then wondering why that's your first reflex instead of patience
+- Going silent and shutting down in an argument, even though you swore you'd communicate differently this time
+- Reaching for your phone the instant something gets uncomfortable, before you've even registered you're uncomfortable
+
 ---
 
 ## Shloka
@@ -29,6 +35,12 @@ Arjuna asks what happens at the final moment, what a person should be thinking a
 > Whatever you're thinking of, deeply and constantly, at the moment you leave the body, that is what you attain. It's shaped entirely by what your mind has been dwelling on.
 
 Not a punishment or a reward system. A mechanism. Whatever groove your mind has spent years wearing into itself is the groove it defaults to when there's no more time to think it through consciously. The half-second before your training kicks in isn't a betrayal of who you really are. It's a preview of it. It's what surfaces when there's no time left to perform anything else.
+
+::: {.pullquote}
+> "Whatever you're thinking of, deeply and constantly, that is what you attain."
+>
+> · BG 8.6
+:::
 
 Krishna's practical instruction, then, isn't "figure out the right thing to think about at the very end." It's this:
 

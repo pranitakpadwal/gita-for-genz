@@ -20,6 +20,12 @@ You read the message one more time. It still says the true thing. Your thumb com
 
 Sent.
 
+**This shows up as:**
+
+- Finally sending the message you've rewritten seven times, heart still pounding, because waiting for the fear to leave first was never going to work
+- Walking into the interview with your hands still shaking, because the shaking was never going to fully stop before you needed to speak
+- Telling someone the truth that could end things, not because you stopped being afraid, but because you decided the fear didn't get the final vote anymore
+
 ---
 
 ## Shloka
@@ -39,7 +45,15 @@ Then the chapter builds to the line the entire book has been walking toward.
 >
 > "Let go of every rule and role you've been clinging to, and turn toward me alone. I will free you from all of it. Don't be afraid."
 
-Not one more instruction added to the pile. The opposite. Put the pile down. And Arjuna, finally, answers.
+Not one more instruction added to the pile. The opposite. Put the pile down.
+
+::: {.pullquote}
+> "Let go of every rule and role you've been clinging to, and turn toward me alone. Don't be afraid."
+>
+> · BG 18.66
+:::
+
+And Arjuna, finally, answers.
 
 > **BG 18.73**
 >

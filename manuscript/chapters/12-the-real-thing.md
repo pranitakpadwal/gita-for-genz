@@ -16,6 +16,12 @@ You'll stay up late thinking about big, abstract things: justice, the planet, wh
 
 You've been sitting with it since, uncomfortably, because you're starting to suspect that loving the abstract version of everything has quietly become a way of avoiding the harder, messier, specific kind.
 
+**This shows up as:**
+
+- Posting passionately about kindness online while leaving your best friend's texts unanswered for four days
+- Donating to causes you care about but snapping at your mom the second she asks you for a favor
+- Talking about wanting deep, real relationships while avoiding the one difficult conversation that would actually deepen the one you're already in
+
 ---
 
 ## Shloka
@@ -37,6 +43,12 @@ Then Krishna spends the rest of the chapter describing, in detail, what that dev
 > Someone who holds no hatred toward any being, who is friendly and compassionate, free of the grip of "mine," steady in pleasure and pain, forgiving, content, self-controlled, firmly devoted with mind and intellect fixed, that person is dear to me.
 
 It's a character study, verse after verse. Not hatred. Compassion. Forgiveness. Contentment. All of it aimed, specifically, at how a person treats what's actually in front of them.
+
+::: {.pullquote}
+> "Friendly and compassionate, free of the grip of 'mine,' steady in pleasure and pain, that person is dear to me."
+>
+> · BG 12.13–14
+:::
 
 ---
 

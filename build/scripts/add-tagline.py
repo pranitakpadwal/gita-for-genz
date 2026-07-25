@@ -17,6 +17,7 @@ def patch_epub(path):
     with zipfile.ZipFile(path, "r") as zin:
         names = zin.namelist()
         title_page_name = next(n for n in names if n.endswith("title_page.xhtml"))
+        nav_name = next(n for n in names if n.endswith("nav.xhtml"))
         with zipfile.ZipFile(tmp_path, "w", zipfile.ZIP_DEFLATED) as zout:
             for item in zin.infolist():
                 data = zin.read(item.filename)
@@ -27,11 +28,19 @@ def patch_epub(path):
                         f'<p class="tagline">{TAGLINE}</p>\n  <h1 class="title">',
                     )
                     data = text.encode("utf-8")
+                if item.filename == nav_name:
+                    # Without --toc, pandoc places nav.xhtml at the EPUB
+                    # root but still emits "../media/..." paths meant for
+                    # files one level down (text/*.xhtml), which resolve
+                    # outside the EPUB entirely. nav.xhtml is at the same
+                    # level as media/, so the "../" needs to go.
+                    text = data.decode("utf-8").replace("../media/", "media/")
+                    data = text.encode("utf-8")
                 # mimetype must stay stored, uncompressed, first entry
                 compress_type = zipfile.ZIP_STORED if item.filename == "mimetype" else zipfile.ZIP_DEFLATED
                 zout.writestr(item, data, compress_type=compress_type)
     shutil.move(tmp_path, path)
-    print(f"Tagline added to epub title page -> {path}")
+    print(f"Tagline added + nav.xhtml media paths fixed -> {path}")
 
 
 def patch_docx(path):

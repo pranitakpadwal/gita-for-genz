@@ -16,6 +16,12 @@ Your family keeps asking, gently at first and less gently now, what the plan is.
 
 Meanwhile the semester's ending. The internship deadline passed. Two of your friends already signed offers. You didn't do nothing, exactly, you scrolled job boards for hours most days, you just never once let it become a real decision. You've been so afraid of choosing wrong that you've quietly, accidentally, chosen nothing, and nothing is filling up your calendar faster than anything else would have.
 
+**This shows up as:**
+
+- Leaving three job application tabs open for months instead of finishing any of them
+- Staying "single but talking to someone" for a year, because a real label means it could actually end
+- Telling everyone you're "still figuring out" your major while the credits quietly pile up anyway
+
 ---
 
 ## Shloka
@@ -39,6 +45,12 @@ Later in the chapter comes the line this book keeps circling back to, because ev
 > Better to do your own path imperfectly than someone else's perfectly. Dying while doing what's actually yours to do is safer than succeeding at a life that was never yours.
 
 And underneath all of it, Krishna names the actual mechanism jamming Arjuna up, the thing that turns a person into someone who can't choose: desire and anger, born from the same root, distorting judgment like smoke covers fire or dust covers a mirror (3.37–38). Not "wanting things" in general. The specific, gripping kind of wanting that makes every option feel like a threat if you don't pick it, and makes every choice you don't pick feel like a loss you'll never recover.
+
+::: {.pullquote}
+> "Better to do your own path imperfectly than someone else's perfectly."
+>
+> · BG 3.35
+:::
 
 ---
 

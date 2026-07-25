@@ -16,6 +16,12 @@ Your therapist used a phrase that stuck: generational pattern. Not your fault. N
 
 You've started trying to notice the roots without hating them. Your dad didn't choose his either. Somewhere up that line is a person who needed to flinch to survive something real. You're just the one holding the reflex now, long after the danger that made it useful is gone.
 
+**This shows up as:**
+
+- Flinching at a raised voice that isn't even directed at you, because your dad flinched at his father's, and his father before him
+- Struggling to ask for help because your family's unspoken rule was always "we handle things ourselves"
+- Catching yourself repeating a parent's exact harsh tone with your own sibling, and hating that it came out so naturally
+
 ---
 
 ## Shloka
@@ -39,6 +45,12 @@ Then Krishna gives the actual instruction, and it's more decisive than "gently n
 > The true form of this tree isn't perceived that way here, nor its end, nor its beginning, nor its foundation. Cut this deeply rooted tree with the strong axe of non-attachment. Then seek that place from which, once reached, none return.
 
 Cut it. Not gently trim, not politely negotiate with, cut, with an axe, deliberately, on purpose. Some roots are not meant to be preserved and honored forever just because they're old and inherited. Some of them were handed down specifically so someone, eventually, would do the work of cutting them.
+
+::: {.pullquote}
+> "Cut this deeply rooted tree with the strong axe of non-attachment."
+>
+> · BG 15.3–4
+:::
 
 The chapter ends by naming what's beyond the tree entirely: the Purushottama, the supreme person, beyond both the perishable field of matter and the seemingly imperishable soul caught inside it (15.16–18). Something underneath even the roots.
 

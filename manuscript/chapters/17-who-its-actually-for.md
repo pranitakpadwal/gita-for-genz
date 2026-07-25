@@ -14,6 +14,12 @@ Not a huge deal, you tell yourself, everyone documents things now. But you notic
 
 You've started noticing this pattern elsewhere too. The journaling app you only open when you remember to screenshot a page for your story. The therapy you mention sometimes in a way that's technically true and also slightly performed, like you're narrating your own growth to an audience that isn't in the room. You're not faking any of it, exactly. You just can't always tell anymore which parts you're doing for yourself and which parts you're doing to be seen doing them.
 
+**This shows up as:**
+
+- Posting a workout selfie and realizing the caption took longer to write than the workout felt satisfying
+- Mentioning your therapy or journaling habit in conversation in a way that's technically true but a little performed
+- Helping a friend move and immediately thinking about how to phrase the story of it later, instead of just being there
+
 ---
 
 ## Shloka
@@ -33,6 +39,12 @@ This chapter sorts faith, food, sacrifice, austerity, and charity all into the s
 > Charity given at the wrong time, to the wrong recipient, without respect or with contempt, is considered tamasic.
 
 Same act. Boxes hauled, food handed out, help given. Three completely different qualities depending entirely on what's happening underneath it, invisible to anyone watching, sometimes invisible to the person doing it too. The photo and the actual hour of labor could be identical from the outside and worlds apart from the inside.
+
+::: {.pullquote}
+> "Charity given simply because it's the right thing to do, without expectation of anything back."
+>
+> · BG 17.20
+:::
 
 Krishna closes the chapter with a phrase meant to be spoken before any real spiritual action, a kind of anchor: Om Tat Sat, roughly, this is offered toward that which is real, without ego attached to the doing of it (17.23–27). Actions done without this anchor, done for show, done without sincerity, are called asat, not real, amounting to nothing regardless of how they looked from outside (17.28).
 

@@ -8,6 +8,42 @@ body {
   margin: 1em;
 }
 
+/* Contents page: each entry is a bold "NN - Title" line with a hard
+   break into a muted italic one-line hook underneath. */
+section#contents p {
+  margin: 0 0 1.1em 0;
+  padding-bottom: 0.9em;
+  border-bottom: 1px solid #eee2d3;
+}
+
+section#contents p strong {
+  color: #a8471f;
+  font-size: 1.05em;
+  letter-spacing: 0.02em;
+}
+
+section#contents p em {
+  color: #6b6b6b;
+  font-size: 0.92em;
+}
+
+/* Epigraph: its own quiet page. The heading only exists so pandoc
+   splits it into a separate file; it isn't meant to be read. */
+section#epigraph h1 {
+  display: none;
+}
+
+section#epigraph img {
+  margin-top: 2em;
+}
+
+section#epigraph blockquote {
+  border-left: none;
+  text-align: center;
+  font-size: 1.15em;
+  margin: 2em 2em;
+}
+
 h1 {
   font-family: Georgia, "Times New Roman", serif;
   color: #1a1a1a;
@@ -61,6 +97,29 @@ blockquote {
   border-left: 3px solid #a8471f;
   padding: 0.2em 0 0.2em 1.2em;
   margin: 1.5em 0;
+}
+
+/* Pull-quote: one line pulled out and enlarged as a visual break,
+   distinct from the verse-quote and Krishna-reply blockquote styles. */
+div.pullquote blockquote {
+  border-left: none;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  color: #a8471f;
+  font-size: 1.3em;
+  line-height: 1.5;
+  margin: 1.8em 0.5em;
+  padding: 0;
+}
+
+div.pullquote blockquote p:last-child {
+  font-style: normal;
+  font-size: 0.6em;
+  color: #6b6b6b;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-top: 0.6em;
 }
 
 /* Verse quotes carry a bold label first line ("BG x.xx", a <strong>).

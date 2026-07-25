@@ -14,6 +14,12 @@ It wasn't dramatic, not the kind of thing that makes a good story later. Just sm
 
 You've started avoiding the group chat where it happened. You've rehearsed apologies you haven't sent, big elaborate ones, gestures that feel like they'd have to be huge to count for anything after what you did. Nothing you draft feels like enough. You keep deleting the drafts.
 
+**This shows up as:**
+
+- Rehearsing a huge apology text for a fight you started, then never sending it because it doesn't feel "big enough" to fix things
+- Avoiding a friend for weeks after letting them down, waiting for some perfect grand gesture to make it right
+- Believing you need to become a completely different, better person before you're allowed to ask for forgiveness for one bad night
+
 ---
 
 ## Shloka
@@ -25,6 +31,12 @@ This chapter contains one of the most quietly radical claims in the entire text,
 > Whoever offers me a leaf, a flower, a fruit, or even water, with devotion, I accept that offering from the one who gave it with a pure heart.
 
 Not a temple's worth of gold. Not a grand gesture engineered to prove something. A leaf. A cup of water. The size of the offering was never the point. The sincerity underneath it was.
+
+::: {.pullquote}
+> "A leaf, a flower, a fruit, or even water, offered with devotion, I accept."
+>
+> · BG 9.26
+:::
 
 Then, a few verses later, Krishna says something that would have sounded almost scandalous to anyone listening for the first time:
 

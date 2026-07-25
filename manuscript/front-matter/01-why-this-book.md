@@ -8,11 +8,13 @@ No thousand-year preamble. No footnotes before you've even met anyone. Every one
 
 Then it shows you the same moment already lived by someone else three thousand years ago, on a battlefield, refusing to fight. Arjuna, the best warrior of his generation, frozen. Not weak. Frozen because for the first time, the cost of doing the "right" thing has a face on it. And Krishna, who doesn't fix it for him, who teaches him something instead.
 
+I wrote this book because I've been Arjuna more times than I'd like to admit; not on a battlefield, but in the ordinary places that actually count: a message I couldn't send, a room I froze in, a version of myself I didn't recognize on a bad night. Somewhere in writing these eighteen chapters, I stopped explaining the Gita to you and started finding out how much of it was already sitting inside my own life, unnamed, waiting for someone to hand it a word. I hope it does the same thing for you. Not a lesson from a distance. Something closer to a hand on your shoulder from someone who has actually been in the fight, not just read about it.
+
 That's the whole book. Eighteen fights. Eighteen chapters of the actual Gita, in order, none of it skipped or softened, quoted verse by verse, but arriving through a scene from your life first instead of a lecture.
 
 ## Why Gen Z, specifically
 
-The Gita doesn't need to be dumbed down for you. It doesn't work that way. If anything, most adaptations underestimate you: they either turn Krishna into a meme ("Arjuna really said 'not my problem' 💀") or bury the actual teaching under so much reverence that you never get close enough to use it.
+The Gita doesn't need to be dumbed down for you. It doesn't work that way. If anything, most adaptations underestimate you: they either turn Krishna into a meme ("Arjuna really said 'not my problem'") or bury the actual teaching under so much reverence that you never get close enough to use it.
 
 This book tries to do neither. It respects the text enough to quote it in Sanskrit, and respects you enough to assume you can hold both the original verse and a modern sentence in the same paragraph without one cheapening the other.
 
@@ -34,6 +36,6 @@ Read it in order, or skip straight to the fight you're currently in. Both work.
 
 This book is not a substitute for the Bhagavad Gita. Think of it as an on-ramp instead, written by someone who thinks you deserve the real text, not a watered-down version of it, and who also knows that "just go read the original" is not useful advice to someone who's never been handed a reason to start.
 
-Consider this the reason.
+Consider this the reason. And consider yourself, from this page on, not a reader being taught something from a distance, but someone already standing in the chariot, mid-conversation, exactly like Arjuna was. Whichever fight brought you here, you're not doing it alone anymore.
 
 *Rudra Prasad Kasturi*

@@ -18,6 +18,12 @@ Nobody warns you that becoming yourself isn't a one-time event. You keep thinkin
 
 Tonight you're sitting in a mostly unpacked apartment, again, surrounded by boxes, again, and some old, familiar, half-comforting thought arrives: okay. Here we go again. You know how to do this part.
 
+**This shows up as:**
+
+- Moving back in with your parents after a layoff and having to relearn a whole routine from scratch, again
+- Losing your entire friend group after a breakup and having to make new friends from zero in your late twenties
+- Starting over with a third therapist because the last one moved, and having to re-explain your whole life from the beginning
+
 ---
 
 ## Shloka
@@ -31,6 +37,12 @@ Arjuna, reasonably confused, points out that Krishna was just born and the sun g
 > Whenever dharma declines and its opposite rises, I take form, age after age. To protect what's good, to end what's causing harm, to restore what's right, I appear again and again.
 
 This isn't a one-time origin story. It's a pattern that repeats on purpose, by design, every time things fall apart enough to need it. Renewal isn't the exception to how this works. It's the actual mechanism.
+
+::: {.pullquote}
+> "Whenever dharma declines, I take form, age after age, to restore what's right."
+>
+> · BG 4.7–8
+:::
 
 Later, Krishna makes a claim that's easy to skim past: someone who truly understands this divine birth and action, who sees it clearly, isn't reborn into more suffering after they die, they come to him instead (4.9). Knowledge, real knowledge, burns away accumulated karma the way fire burns fuel to ash (4.37). Nothing purifies quite like it.
 

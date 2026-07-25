@@ -16,6 +16,12 @@ It made you feel a little fraudulent, if you're honest. Like your relationship w
 
 You didn't resolve the thought. You just closed the app, again, the night before something hard, and used it anyway.
 
+**This shows up as:**
+
+- Only calling your mom when something's actually wrong, never just to talk
+- Only opening a journal or notes app to write when you're falling apart, never when things are simply fine
+- Only texting an old friend when you're lonely at 1 a.m., then feeling too awkward to keep talking once things are okay again
+
 ---
 
 ## Shloka
@@ -27,6 +33,12 @@ Krishna doesn't dodge this. Early in the chapter he actually sorts people out by
 > Four kinds of people turn toward me: the one in distress, the one seeking wealth or gain, the one seeking knowledge, and the one who already knows. All of them are noble for coming at all.
 
 The distressed person is listed first, not last, not as some lesser category to be embarrassed about. Named plainly, put right alongside the seeker of wealth, the seeker of knowledge, and the wise one who already understands. Four different doors into the same room. Krishna doesn't rank the distressed person's door as the shameful one.
+
+::: {.pullquote}
+> "The one in distress... all of them are noble for coming at all."
+>
+> · BG 7.16
+:::
 
 He does go further, though, later in the chapter, describing the wise one, the fourth type, as especially dear to him, because that person has stopped needing a crisis to show up at all (7.17–18). Not because the other three are wrong. Because there's a version of this that isn't contingent on anything going wrong first, and it's worth moving toward, slowly, over time.
 

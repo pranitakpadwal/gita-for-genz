@@ -18,6 +18,12 @@ And then there's the crash. The version that hasn't showered by 4 p.m., that's r
 
 What gets you is that none of these feel like choices. You don't wake up and pick which version shows up. You just find yourself already inside one of them, again, and spend the day being run by it instead of the other way around.
 
+**This shows up as:**
+
+- Feeling unstoppable and disciplined on Monday, then unable to get off the couch by Thursday, and calling yourself lazy instead of just tired
+- Riding a wired, say-yes-to-everything productivity streak that burns out into a three-day crash every single time
+- Judging your whole week by whatever mood you happen to be in on a Tuesday afternoon, forgetting it's already shifted twice since Sunday
+
 ---
 
 ## Shloka
@@ -41,6 +47,12 @@ All three bind. That's the part easy to miss if you've been treating sattva as "
 > One who is beyond the three gunas neither hates light, activity, or delusion when they arise, nor longs for them when they're absent. Such a person sits as a witness, undisturbed, knowing it is only the gunas in motion, and remains unshaken.
 
 Not a fourth mood to chase. A different relationship to the three you already cycle through.
+
+::: {.pullquote}
+> "Such a person sits as a witness, undisturbed, knowing it is only the gunas in motion."
+>
+> · BG 14.22–23
+:::
 
 ---
 

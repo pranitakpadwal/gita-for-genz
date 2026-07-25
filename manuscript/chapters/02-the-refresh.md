@@ -22,6 +22,12 @@ You put the phone on the pillow next to your face so you'll feel it buzz. You do
 
 *"You have built an entire future on top of a page that has not finished loading. Come back down."*
 
+**This shows up as:**
+
+- Checking your bank app compulsively during a slow month, like watching will change the number
+- Rereading a text you sent, timing exactly how long it's taking them to reply
+- Refreshing a job portal for weeks after the interview instead of starting the next application
+
 ---
 
 ## Shloka
@@ -53,6 +59,12 @@ Then comes the verse most people have heard even if they've never opened this bo
 Two different failure modes, ruled out in one breath. You can't control the outcome, so don't build your identity on it. But you also don't get to use that as permission to disappear and do nothing. You still show up. You still do the work at full strength. You just stop renting out your peace of mind to a number you were never going to control anyway.
 
 Krishna spends the rest of the chapter describing what a person who's actually absorbed this looks like: steady in praise and blame, undisturbed in pleasure and pain, someone whose calm doesn't come from nothing happening to them, but from not needing any particular thing to happen (2.55–2.72). Not numb. Just no longer hostage.
+
+::: {.pullquote}
+> "You have a right to your work, never to the fruits of your work."
+>
+> · BG 2.47
+:::
 
 ---
 

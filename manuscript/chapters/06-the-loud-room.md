@@ -16,6 +16,12 @@ You open your eyes at the ninety-second mark and turn it off. This is the fourth
 
 You tell yourself you'll try again tomorrow. You've told yourself that before. Some tired part of you wonders if this is a skill you simply don't have, the way some people can't carry a tune.
 
+**This shows up as:**
+
+- Starting a gym routine, missing three days, and deciding you've ruined the whole month instead of just going back
+- Journaling every night for a week, missing one, and never opening the notebook again
+- Trying to read before bed instead of scrolling, catching your mind wander after two pages, and closing the book for good
+
 ---
 
 ## Shloka
@@ -27,6 +33,12 @@ Krishna doesn't pretend this part is easy. When Arjuna, later in the chapter, st
 > Yes, the mind is restless and hard to restrain. But it can be controlled through steady practice and through letting go of what it grips.
 
 Two tools, named plainly. Practice, repeated, unglamorous, done again after every failure. And detachment, which here doesn't mean not caring, it means loosening the grip the mind has on whatever it's spiraling about. Neither tool works alone. Practice without loosening the grip just becomes another thing to grip.
+
+::: {.pullquote}
+> "The mind is restless and hard to restrain. But it can be controlled through steady practice."
+>
+> · BG 6.35
+:::
 
 Earlier in the chapter, Krishna describes what's actually at stake in learning to work with your own mind instead of against it:
 
