@@ -79,6 +79,8 @@ pandoc "$COMBINED" \
   --toc --toc-depth=1 \
   -o "$OUT_DIR/krishna-texts-back.docx"
 
+python3 "$ROOT_DIR/build/scripts/add-tagline.py" docx "$OUT_DIR/krishna-texts-back.docx"
+
 echo "Kindle-ready docx -> $OUT_DIR/krishna-texts-back.docx"
 
 pandoc "$COMBINED_ICONS" \
@@ -91,5 +93,7 @@ pandoc "$COMBINED_ICONS" \
   --epub-cover-image="$ROOT_DIR/assets/cover/cover.png" \
   --toc --toc-depth=1 \
   -o "$OUT_DIR/krishna-texts-back.epub"
+
+python3 "$ROOT_DIR/build/scripts/add-tagline.py" epub "$OUT_DIR/krishna-texts-back.epub"
 
 echo "EPUB -> $OUT_DIR/krishna-texts-back.epub"

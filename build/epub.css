@@ -150,6 +150,15 @@ section.titlepage p.subtitle {
   text-align: center;
   font-size: 1.15em;
   font-style: italic;
+  margin-bottom: 0.6em;
+}
+
+section.titlepage p.tagline {
+  text-align: center;
+  font-size: 0.85em;
+  font-style: italic;
+  color: #a8471f;
+  letter-spacing: 0.04em;
   margin-bottom: 2.5em;
 }
 
