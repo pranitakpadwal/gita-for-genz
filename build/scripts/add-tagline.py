@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
-"""Post-processing step: inserts a small tagline line under the subtitle
-on the auto-generated title page, for both the epub and docx outputs.
-Pandoc's built-in title-block only supports title/subtitle/author, so this
-patches the already-built files rather than fighting pandoc's template.
+"""Post-processing step: inserts a small eyebrow tagline line above the
+title on the auto-generated title page, for both the epub and docx
+outputs. Pandoc's built-in title-block only supports title/subtitle/
+author, so this patches the already-built files rather than fighting
+pandoc's template.
 """
 import sys
 import zipfile
 import shutil
-import re
 
 TAGLINE = "A Gita for Gen Z"
 
@@ -23,8 +23,8 @@ def patch_epub(path):
                 if item.filename == title_page_name:
                     text = data.decode("utf-8")
                     text = text.replace(
-                        '<p class="author">',
-                        f'<p class="tagline">{TAGLINE}</p>\n  <p class="author">',
+                        '<h1 class="title">',
+                        f'<p class="tagline">{TAGLINE}</p>\n  <h1 class="title">',
                     )
                     data = text.encode("utf-8")
                 # mimetype must stay stored, uncompressed, first entry
@@ -36,19 +36,19 @@ def patch_epub(path):
 
 def patch_docx(path):
     from docx import Document
-    from docx.enum.text import WD_ALIGN_PARAGRAPH
     import copy
+    from docx.text.paragraph import Paragraph
 
     doc = Document(path)
-    subtitle_idx = next(
-        i for i, p in enumerate(doc.paragraphs) if p.style and p.style.name == "Subtitle"
+    title_idx = next(
+        i for i, p in enumerate(doc.paragraphs) if p.style and p.style.name == "Title"
     )
-    subtitle_p = doc.paragraphs[subtitle_idx]
-    new_p_elem = copy.deepcopy(subtitle_p._p)
-    subtitle_p._p.addnext(new_p_elem)
+    title_p = doc.paragraphs[title_idx]
+    new_p_elem = copy.deepcopy(title_p._p)
+    title_p._p.addprevious(new_p_elem)
 
-    from docx.text.paragraph import Paragraph
-    new_p = Paragraph(new_p_elem, subtitle_p._parent)
+    new_p = Paragraph(new_p_elem, title_p._parent)
+    new_p.style = doc.styles["Subtitle"]
     for run in list(new_p.runs):
         run.text = ""
     if new_p.runs:
@@ -56,8 +56,9 @@ def patch_docx(path):
     else:
         new_p.add_run(TAGLINE)
     for run in new_p.runs:
-        run.font.size = subtitle_p.runs[0].font.size - 20000 if subtitle_p.runs and subtitle_p.runs[0].font.size else None
         run.italic = True
+        if run.font.size:
+            run.font.size = int(run.font.size * 0.7)
 
     doc.save(path)
     print(f"Tagline added to docx title page -> {path}")
